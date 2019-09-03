@@ -32,8 +32,8 @@ for row in utterances:
     
 Counter(labels)
 
-#df = pandas.DataFrame(data={"col1": utterances, "col2": labels})
-#df.to_csv("./4_emo.csv", sep=',',index=False)
+df = pandas.DataFrame(data={"Utterances": utterances, "Label": labels})
+df.to_csv("./Dataset/4_emo.csv", sep=',',index=False)
 
 # Word Tokenizing
 tokenizer = Tokenizer()
