@@ -3,6 +3,7 @@ import os
 import numpy as np
 import pandas
 import random
+import tensorflow as tf
 from matplotlib import pyplot
 from collections import Counter
 from keras.preprocessing.text import Tokenizer
@@ -120,7 +121,8 @@ y_val = to_categorical(y_val)
 y_test = to_categorical(y_test)
     
 # Load word embedding, process WE file
-emotional_glove_dir = os.getcwd() + '/Word_Embedding/glove.twitter.27B.50d.txt'
+#emotional_glove_dir = os.getcwd() + '/Word_Embedding/glove.twitter.27B.50d.txt'
+emotional_glove_dir = os.getcwd() + '/Word_Embedding/em-glove.6B.300d-20epoch.txt'
 embedding_index = dict()
 print('Converting into dictionary of vectorized words...')
 f = open(emotional_glove_dir, encoding='utf-8', errors='ignore')
@@ -133,7 +135,7 @@ f.close()
 print('Done.')
 
 # Create a weight matrix for words in training
-embedding_dim = 50
+embedding_dim = 300
 embedding_matrix = np.zeros((vocab_size, embedding_dim))
 for word, i in tokenizer.word_index.items():
     embedding_vector = embedding_index.get(word)
@@ -145,7 +147,7 @@ for word, i in tokenizer.word_index.items():
 # Define Model
 model = Sequential()
 model.add(Embedding(vocab_size, embedding_dim, input_length = max_len, weights = [embedding_matrix], trainable = False))
-model.add(LSTM(64, return_sequences = True))
+model.add(LSTM(48, return_sequences = True))
 #model.add(LSTM(64, return_sequences=False, input_shape=(max_len, 3)))
 #model.add(LSTM(64, return_sequences=True))
 #model.add(LSTM(64, return_sequences=False))
@@ -173,7 +175,8 @@ pyplot.legend()
 pyplot.show()
 
 # Save the trained model
-model.save(os.getcwd()+'/Model/GloVe-LSTM_model.h5')
-print('Model saved to '+os.getcwd()+'/Model/GloVe-LSTM_model.h5')
+model.save(os.getcwd()+'/Model/GloVe.50d-LSTM_model.h5')
+print('Model saved to '+os.getcwd()+'/Model/GloVe.50d-LSTM_model.h5')
 
 print("Total training time: %s seconds" % (time.time() - start_time))
+

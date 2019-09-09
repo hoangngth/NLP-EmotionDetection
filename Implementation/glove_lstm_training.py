@@ -145,7 +145,7 @@ for word, i in tokenizer.word_index.items():
 # Define Model
 model = Sequential()
 model.add(Embedding(vocab_size, embedding_dim, input_length = max_len, weights = [embedding_matrix], trainable = False))
-model.add(LSTM(64, return_sequences = True))
+model.add(LSTM(48, return_sequences = True))
 #model.add(LSTM(64, return_sequences=False, input_shape=(max_len, 3)))
 #model.add(LSTM(64, return_sequences=True))
 #model.add(LSTM(64, return_sequences=False))
@@ -173,7 +173,7 @@ pyplot.legend()
 pyplot.show()
 
 # Save the trained model
-model.save(os.getcwd()+'/Model/GloVe-LSTM_model.h5')
-print('Model saved to '+os.getcwd()+'/Model/GloVe-LSTM_model.h5')
+model.save(os.getcwd()+'/Model/GloVe.50d-LSTM_model.h5')
+print('Model saved to '+os.getcwd()+'/Model/GloVe.50d-LSTM_model.h5')
 
 print("Total training time: %s seconds" % (time.time() - start_time))

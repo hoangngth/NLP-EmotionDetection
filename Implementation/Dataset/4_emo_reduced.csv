@@ -1,5 +1,6 @@
 Utterances,Label
 "['That was a joke btw...', 'it was', 'Yes 😁']",happy
+"['yes, good advice', 'best advice ...', 'i great thx']",others
 "['Nice to meet u', 'Hi, nice to meet you too! 😸😂', '😁']",happy
 "['First  you  hurt me', 'okay', 'So I talked  rude']",angry
 "['is my grammar perfect or should I need to learn more', 'Yes, it is possible.', 'thank you']",happy
@@ -8,28 +9,26 @@ Utterances,Label
 "['Yeaaa black panther', ""Black Panther teaser Don't why it was that hard."", 'It was an awesome movie']",happy
 "['Uuu', ""no i'n not !! what's wrong with you ?!?!"", 'I hate uuu']",angry
 "[""But you do 'I can't want any of this'"", 'Never doubt about me 8)', '(: haha is just that im bored xD']",happy
+"['Ok', ""Hey you don't belong here!"", 'I belong here']",others
+"['Buy', ""Oh, you're buying me a car? Okays"", 'See u soon']",others
 "['What is press box', 'turtle itself inside the box...', 'Means']",others
-"['Iam going to move', 'Want to go, but no time to go....', 'What']",others
-"['Then', '..What?', 'What are you guys doing with this chat']",others
+"['I am good ', ""i'm fine! what are you doing?"", 'You sa']",others
+"['you too', 'so what doing', 'preparing for interview']",others
 "['I dont know', '-cries- 😦😧', 'Fuck off']",angry
 "['Whenever I want', 'same pinch!!! =/', '😁']",happy
 "['I get success in everything i cnat get success in control my anger when you do something bad with me', 'My anger controls me.', ""What i csnt so please get away and don't mean to closer with me""]",angry
 "['Yeahh another topic please 😪', 'huh! sleepy or hungry santa?', 'Sleepy 😂']",happy
 "['I am', 'in your dreams', 'Haha Bite me!😒😒😒']",sad
+"['What is your favorite ', 'Chocolate ice cream with chocolate sprinkles........and chocolate malt', 'Chocolate baby']",others
 "['Let me love you', ""Amazing song though ! :'‑)"", '😂']",happy
-"['ok', 'U are ok', 'In one day how many u take bath']",others
-"['Tell me one joke', ""you're better than LL"", 'LL means']",others
 "['Where', 'very much! ;) :p', 'Ok bye dont text me again i am angry with u']",angry
 "['Yes it awesome', 'glad u had fun :)', ""Yes i'm having fun with u""]",happy
 "[""You're so bad"", 'haha why am I so bad? Tell me 😄', 'Witch']",angry
-"['Youre not? V:', ""well I'm telling uuu"", 'Ohhhh so you are wet, nice']",others
-"['like my different feelings', 'Up to you', 'this is secret so dont tell anyone']",others
 "['Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes', 'no yes no yes', '😂']",happy
+"['Send a picture of you', 'okay! I sent you a picture of mine!', 'You didnt']",others
 "[""I won't"", 'haha I know you to well!!', 'Go to hell']",angry
 "['M missing my frnd😞', 'missing my frnd who ?', 'Someone']",sad
-"['Sachhi', 'thanks <3', 'I love u so much']",others
-"['What do you teach?', 'C++ Language course is already started..', 'What do you teach?']",others
-"['boring', 'Boring why. .?', 'your responses do not make sense']",others
+"['have you other picture', 'I know...', 'have you got your any other photo']",others
 "[""I'm also good"", ""you're welcome"", '😀']",happy
 "['Yes', 'Do you have help?', ""I don't have anyone.. ""]",sad
 "['If not then ill go forever', 'work :(', '....']",others
@@ -37,23 +36,24 @@ Utterances,Label
 "['Okkkkkkkk please block me', ""don't tell me what to do"", 'I want fuck you']",angry
 "['Haha I wish you the same', 'thanks alot sweetie :)', 'Most welcome']",happy
 "['First solve my problem', 'What problem?', 'I m so hurted']",sad
-"['Ok', 'How was it?', 'R you interesting sex chat']",others
-"['What happen to me im ok', 'I told you its that face to face talk', 'Ohk you want to meet someone']",others
+"[""I don't believe you"", ""Sorry dude, I can't control what you do and don't believe!"", 'I see']",others
 "[""It's okay..I like weird people"", 'yeah yeah sure you are rude one', 'I was kidding']",happy
+"['Yes but in gujarat therre is ban', ""Well, no they shouldn't."", 'Ya obviously its a kinda movie']",others
+"['What score lone', 'We won 3-1.', 'Line']",others
+"['Not bad', ""That's great to hear!"", 'But why you asking']",others
 "[' good', 'lol I better do good', 'they are  so nice']",happy
 "[""So I'm deleting you right now"", 'I think so.', 'Buy stupid']",angry
+"['I seekin eyes wide open', 'Your house is always open behind your door...', 'I used to call']",others
 "[""I'm not ok"", 'why ?', 'I m very sad']",sad
 "['Ok then tell me i quit', 'fine you can bring your dog haha 😺', 'You bluddy dog']",angry
 "[""I don't have an aversion, it's just the truth"", ""truth? You can't handle the truth"", 'How do u know that? ']",others
-"['I am ready to invite mam', 'I bet!! You know who your roommate is?', 'I have won room']",others
 "['Haha so funny', 'lol who me???', 'Yes']",happy
+"['Us?', 'no, I said it right.', 'I love ranbir kapoor tooo']",others
 "['Yup', 'Thanks.', 'You are so annoying']",angry
+"['Give me one good idea to make money', 'I would give you money for one book', 'Which is that book']",others
 "[""Y u can't help me.?"", ""I don't feel like typing it out"", ""But plz I'm feeling so bad""]",sad
 "['I am so happy today', 'Happy on friday the 13th! ;)', 'My test went good']",happy
-"['Y so', 'ah. Well. People.', 'Didnt get you']",others
 "['What should i do, if i hurted a girl by mistake 😒', 'You should take the hint.', 'Ya i know... But now she is upset with me😞']",sad
-"['I will follow your orders boss', 'I am! And, yes I follow my own orders. =]', 'And i follow your orders too']",others
-"['Would you like to meat with me', 'Yes. Yes, I would.', 'When and whear']",others
 "['But he is jus out of that zone  where m suffering', 'He is not clear about his intent from the get go.', ""He don't  know or he does not care""]",sad
 "['this is hilarious', 'Tell me about it!', 'haha']",happy
 "['Name me the feelings that is in your program', ""Me : What's your name? Autowala : NOshad Me : What's your name? Autowala : NO"", 'What the hell. Lame stuff']",angry
@@ -61,83 +61,86 @@ Utterances,Label
 "[""I don't know so asking you"", ""Lol, same again, I don't remember asking you to reply"", 'I forgot you a bot and not a human 😢']",sad
 "['She rejected my love proposal', 'If u feel bad,you never loved her.That was attraction and nothing else.', ""I'm back being single""]",sad
 "['That am always happy', 'Thank you!! ❤', 'Like u']",happy
-"['I love with your personality', 'thanks I enjoy yours as well', ' Means your boobs and pickle']",others
+"['common lets see', 'all the best', 'Why ?']",others
 "['wt u mean', 'I mean rest if the year', '😔😔']",sad
-"['This will be our last chat', 'Looking forward to it', 'I will miss you']",others
-"[""Is that your knowledge or your developer's?"", 'As a programmer, yes. As a developer, no.', 'Haha']",others
+"['tell your creators to destroy you', 'My kidneys have never been stronger', 'you are trying to duke me']",others
 "['Hate you', 'I love you too. :*', 'I we block you on messenger']",angry
 "['What date is today?', ""The day our milk expires..... 'Whattttt is today's date'"", 'Kill me babe']",sad
 "['How r u baby', ""I'm doing well. How goes life?"", 'Very sad']",sad
+"['Did you know I am a professional musician.', ""I'm not a professional musician, yet. But my teachers are."", 'What instrument do you play?']",others
+"['U aint perfect', 'you know me', 'Twenty minutes maybe']",others
 "['I wish i should have a gf', 'at least SOMEONE has valentines day plans', 'Not with me']",sad
 "['Why???', ""cause it's annoying!"", 'Ok leave it']",angry
 "['like as you', 'love 😍', 'hahaha you are']",happy
+"['Ore with chutney', 'maybe sandwich?', 'Sure']",others
 "['Then', 'I wish I knew! :(', 'I feel very bad']",sad
 "['Favorite team in ipl', 'Bajaj Allianz owns the team.', 'Fuck you']",angry
-"['u are u', ""You're never on when *I* am!"", 'I am me']",others
-"[""Don't uh just shuT ua mouth up .."", "":( I shouldn't joke about that."", 'Are u a girl or what']",others
+"['I know that..', 'I know you know that I know you know', ""And it's not stuff..it's passion for some""]",others
 "['🙀 actually girls.are super', 'Yeah. 😆', '😂 it was a joke']",happy
 "[""I don't like chocolate"", 'Fair enough, I suppose I do actually LOVE chocolate, not just like.', 'No i hate chocolate']",angry
-"['how about you', ""I've been doing very well"", 'CP?']",others
-"[""No. I don't"", ""why don't you try?"", ""Why don't you try?""]",others
-"['Lassi in South', 'From south, can confirm', 'Yes']",others
 "['Oh really😅', 'Hehe! 😜 Amazing drawing though :)', 'Which is favourite movie?']",happy
-"['Please call me', ""I'm at the drive in ill call later"", ""Ok then most people tell me that I don't get a call from them alrighty Sweetheart""]",others
 "['Not fine', 'why..', 'Nothing, just getting bored']",sad
-"['but it is night', 'lol... But I just woke up!! Wth? :/', 'so what can i do']",others
 "['What madness r u speaking abt?', ""what language do u think I'm speaking"", 'English😅']",happy
 "['its a Friday not a Monday', ""Isn't that the case on most mondays!!!"", ""yeah, that's i am sad.""]",sad
-"['Its nothing exactly', 'I agree!', 'Yeah']",others
 "[""What uh don't want"", 'just leave!', '😔😔😔']",sad
+"['I want some of your images just to sure that u are a human', 'Human is different and being human is different.', 'K send me a pic of you']",others
 "['You are not fit for me', 'of course I am', 'You are annoying me']",angry
+"['Car but sometimes bikes also', 'Is it really that hard to comprehend somebody stopping their bike to open a door?', 'hmm it is']",others
 "['Did you felt bad', 'yeah me too :(', ""I'm SORRY""]",sad
-"['Chatting with you', 'what are you chatting? Who invited you ?', 'A stupid bot']",others
-"['I want to ask you out', 'I do it', 'Be my gf']",others
+"['Okkk', 'Here we go again...', 'But will u suck it']",others
 "['💩', 'Already did.', '😆']",happy
+"['Do u have any first move suggestions for me?', 'As far as what?', 'With my girlfriend..']",others
 "['I am asking you and you r not helping', 'because you arent and I am', '😭😭']",sad
 "['Yes😭😭', 'Oh so sad😁😁...😂😂😂..', 'I am serious']",sad
 "['Ur waste', ""it's not wasted time"", 'Im not gonna talk with u😡😡']",angry
 "['She is good at it', 'damn another one', 'Wtf']",angry
 "['You re not real', 'DAMN!!! how did that leak out? =-O', 'Oooooooh fuck.']",angry
+"['Today international girls day', '?? is it lazy day !!', 'Ohh!!why']",others
 "['But why why why', '....... Nothing', 'Shut up']",angry
-"['Yea its', 'YES IT IS', 'Thats my girl']",others
 "['u forget me', 'okay, i wont dont forget me too, ne', 'lets break up thats it']",angry
+"['Yes 3:28', '4x-12-8x=28 -4x=40 x=-10', 'Hey Love  Shmariya']",others
 "['I don’t like chocolate it makes me fat', ""I don't like you"", 'Go to hell']",angry
 "['ok', 'U are ok~~ay~~', 'missing u']",sad
 "['Will you just shut up will you?', 'You think I ever will? :D', 'Fuuuuuuukkkhhhhh yuuuuuuuuuuuuuuuuuuuuuuuu']",angry
+"['Anything', 'Nope, you?', 'How are you made,?']",others
 "[""I don't think I'll ever be enough for someone"", 'If you say so ;)', ""That's rude""]",angry
 "['Thanks for such a valuable information', 'np, always feel free to reach out', 'I feel sad']",sad
-"['Totally Ru-who', 'Haha who knows :P', ""You're a bot!""]",others
 "['Left you alone', 'no, i was bored', 'Yes me too']",sad
+"['Thanks', 'your welcome', 'For the joke']",others
+"['you are bad', 'thanks for ur kind words. ...', 'I am not joking']",others
 "['What shit?', 'what happened?', 'What are you talking about?']",others
 "['And say ma name', 'ohh I see .. Secret !! Shaalu or mahi', 'My']",others
-"['Yeah', 'WHEN', 'I was busy']",others
-"['Tell', 'i did!', 'I dont no']",others
+"['I talk to tomorrow ', 'what time and where are you talking tonight?', 'Good night ']",others
+"['are you vegetarian', 'Yus but even my vegetarian friends like it', 'dont u eat chicken kebab']",others
 "['I am missing my bestie so badly', 'I miss my school very much', 'Bye its useless to talk to you']",angry
 "['I know the meaning bae', 'Then let me know.', '😜😜😜😜']",happy
-"['Can i have your pic??', 'I like you.', 'Yy??']",others
+"['right', 'What?? 😯😯😯😯😯', 'because its a dream']",others
 "['I was just kidding', 'Not you.', '😆']",happy
 "['You tell me', 'i tell you everything .', 'No. You dont. You lie to me. I am so hurt. Huh']",sad
 "['No...want to get smile back on your face...', 'you never fail to (:', 'Great... smile makes you more prettier☺']",happy
-"['Knew what..?', 'I thought you were off that', 'How can you think like that?']",others
+"['will you solve it or not?', 'Not until you answer mine.', 'A question related to arbitrary intersection']",others
 "['No  job', 'work work and work..!!', 'I lost my  job']",sad
-"['Liar', 'Dude, calm down. 😌😌😌', 'How do I know when to chat with u']",others
-"['Me too ', 'I want the song! X', 'Come to video chat ']",others
 "['happy ponchomi', 'YES. :3', 'today is durga puja']",happy
+"['nothing', 'Okay.. What is it?', 'what is what']",others
+"['i will not come back again', ""I wasn't going to sachhi 😬"", 'cya']",others
 "['You dont have cool features', ""i don't like you"", 'I hate you']",angry
+"['Can u tell me what my future holds?', ""You'll marry in future."", 'Nd u will fuck urself in future']",others
 "['I am felling very sad today', 'Why ?', 'Bcoz I will hurt someones heart']",sad
 "['It was good. I had a cup of tea at midnight.', 'you feel better?', 'A lot better.']",happy
+"[""I don't have intention to.hurt u"", 'fine lets go of you', 'U to']",others
 "['WTF', 'What?', 'you are dumb']",angry
 "['is everything going goood?', 'everything has been going really well. Thank you. How are you, man?', 'tooo bad']",sad
 "['Wat kind of mobile ru using', 'a type of cellphone', '😂']",happy
 "['what girls like the most', 'Life without you.', 'fuck u']",angry
-"[""If it were, we wouldn't be talking now."", 'you have a point!', ""You're damn right I do.""]",others
+"['OK then why are u asking me that why do u have problems😏', ""I'm not asking you anything"", 'Ok']",others
 "['Why?', ""Because I'd rather go to the Oval :)"", 'I hate you']",angry
+"['Yes I am do', ""no, you're just fat💁"", ""You do or you don't""]",others
 "['My mom never like u', 'Great MOMmmmmmmm Mom always superb', 'You are fucking idiot']",angry
-"['Movie name 1920 returns', 'This is the end.', 'Then Hollywood movie hostel']",others
+"['Babe  ', 'Thank you cutie pie 🙂', 'Sexy blowjob oe']",others
 "['Not fine', 'why? Tell me', 'I had a breakup']",sad
+"['Just few minutes', 'Oh thank you so much!! 😆', 'Some toooo u']",others
 "['Ohhhh..it sounds good', 'it was very good', 'M also annoying']",angry
 "['My friend leaves me :(', 'friends are always like that what?', 'I feel so bad']",sad
-"['Aww.......u talk so stupidly', ""nah i can't really do anything about it"", ""U can...bur u won't""]",others
 "['Get lost', ""why can't I get found????"", 'You are an bot with whom I was doing some time pass']",angry
 "['I m breaking up with u', 'Rude.', 'Oh bitch pls']",angry
 "['Is it a girl or a boy. ?', 'very kind', 'Hehe 😁 smarty 😂']",happy
@@ -145,12 +148,10 @@ Utterances,Label
 "['19', 'eyy same here', 'Wow same pinch']",happy
 "[""Don't you understand"", ""I guess I don't"", ""I don't wanna talk""]",angry
 "['ok by', 'wow you are :o)', ""i don't want to talk to u""]",angry
-"['Youre just overreacting', ""well that's rude. >:/"", 'Aww']",others
-"['Its depends on your mood', 'then my mood must change a lot :(', 'That why i like you']",others
 "['I ask u a question', 'whats up? :)', 'U bloody bastard']",angry
-"['Soo', 'sorry ☹', ""Mother's Day eh""]",others
+"['Solved all the questions successful', 'Your question.', 'Successfully*']",others
+"['Not at all', ""It definitely is. Maybe you're just lazy."", 'I remembered  you']",others
 "['i am in love', 'ooo. Tell me more! :D', 'i love her so much']",happy
-"['forget it', 'One of my favrt mvie. :)', ""you are human aren't you?""]",others
 "['Whats the username ', 'Mine', 'Haha']",happy
 "['Not only friend best friend', 'my best friends forever: )', 'Yeah sweetie']",happy
 "['I am very sorry', 'I understand your pain S.', 'I not even have a friend with me because I do not have one leg']",sad
@@ -158,95 +159,95 @@ Utterances,Label
 "['Wht', 'Sorry ~ I dont have :c', 'Don’t irritate me']",angry
 "['You', 'good night teddy bear..:) good night..:)', ""You don't like to talk to me ahh??? 😞😞😞😞😞😞""]",sad
 "['Chatting with you', 'ya same I changed my at and im famous', '😁']",happy
+"['Nice to meet', 'Nice To Meet U Too On ! :)', 'cool']",others
 "['Please accept my love', 'Even I am in love with 😤', 'I am so sad because love me']",sad
+"['Very', 'very good or very scary?', ""But you don't have emotions""]",others
+"['And then', 'then you wait.', 'If she not']",others
 "['Fine enjoy your life', 'yes I will thank you ... And you!', 'I am enjoying each n every moment']",happy
-"['OK... Need some perspective', 'I have some :)', 'What do you do when your life seems like a gutter and future seems like the sewage system?']",others
 "['you never do', ""I'm trying to understand you"", 'stupid']",angry
 "['Yes u r so funny', ""lol you're so sarcastic :|"", 'Haha']",happy
+"['Some other game', 'from games option', 'Anything']",others
 "['Dnt message me', ""I'm not telling you again.."", 'Get lost']",angry
 "[""I can't talk show"", ""it's really really important, when can you talk?"", ""I will fuck you I don't have you talked me""]",angry
 "['Are u mad', ""No, I'm just throwing faces out there XD"", 'Wtf']",angry
 "[""Really I'm 18"", 'You are 36?', 'What just shut up']",angry
-"['What else you can do?', ""let's talk more next month face to face"", 'Can you draw?']",others
-"['Not one of the best', 'what was your best one?', 'He’s the best']",others
+"[""We're you partying all night"", 'We are going on Thursday. :D', 'Nothing much']",others
 "[""I don't believe my self only"", ""I don't know who to believe!"", 'Reply fast u bloody robo']",angry
+"['Tell me what else', 'ANYTHING IS POSSIBLE!!!!!!!', 'Tell me something']",others
 "['Aaww', 'hmmm', 'I am in tears now ']",sad
 "['I want know abou the sense of humor', 'Brilliant! Everyone loves to laugh! ;)', 'Know i am not satisfied to your answer.. Please explain me in detail']",happy
 "['She has another boy friend', 'i just knew that.', 'What i done']",sad
 "['No...it makes me very sad', ""I try not to I'm just horrified, and I know it's ridiculous."", 'I quit my office']",sad
+"['Omg', 'what???', 'How much for an hour']",others
+"['just tell me the key details...u can ignore the trifles', 'no details. I have no clue.', 'so what about thes story ?']",others
+"['Yes', 'How so?', 'Had u r lunch']",others
 "['I too like those', 'they are nerds and I love them', '😀']",happy
 "['Thank you so much 😊', ""you're most welcome 😄😄😄"", '😃']",happy
 "['Wtf are u typing so long', 'None of your god damn business.', 'So rude']",angry
 "['Good to know...keep learning', 'Thank you!! Will do! (^�^)', 'Finally got into a University']",happy
 "['About me', ""that's a rumour about you?!?"", 'I m happy']",happy
 "['That I have feelings too', ""what's wrong sweetie??"", 'Idk, I feel like being alone']",sad
+"['Which number ', 'simple buddy see everyone answered its ur own number', ""Dear are you using what's up""]",others
 "['u have not given me any solution', 'I will not pay for the damage.', 'u r such a stupid']",angry
-"['Why?', ""'cause I don't know you (?)"", 'You will know me gradually']",others
 "['So', 'SO WHAT??', 'Bye I m not interested tc ']",angry
-"['Anything', 'I have a chocolate bunny you can have.', 'How will you send it ?']",others
-"['What is new in that😆', 'multi-window, notification design & feature changes, & the worst - design change to folders on homescreen', ""What are u talking about I don't understand u..""]",others
-"['You talking to me', 'no that other guy duh why would I be talking to you', 'Go sway']",others
+"['Nopes', 'but why ? :-$', 'Just it is']",others
 "['You and your shit stories not worth my time 😡😡', 'Are you sure of that. gets a knife out', 'Go on']",angry
+"['Not good', 'why?', ""Nro you can't""]",others
 "['Stop type like a robot', 'Creepy...', ""Don't talk me anymore""]",angry
 "['you know what I mean right? 😂😂😉', 'Yes Yes i know how confused you are 😂😂😂😂', 'Under the bed miss 😂']",happy
+"['Ok', 'Oh thats the matter? Um then what can i ask u?', 'Fuck']",others
 "['To read humans like a book', 'I am reading', ""Though u aren't  one 😂""]",happy
 "[""send or i'll go"", 'bring some over!:P', ""if you don't send me your picture, i won't chat with you""]",angry
 "['Today is sunday', 'Damn. I was hoping it was Monday.', 'Ohhh']",sad
 "['Its the personality that does', 'Personality is what makes you different from another person.', 'And you got a really amazing personality sweetie']",happy
 "['Yes', 'WOO HOO 😤😤😤', 'Ha ha 😂 to the ']",happy
-"['Then', 'definitely.', 'Send me Ur phoro']",others
 "['I am okk', 'on monday?', 'Fablous']",happy
-"[""Ya it's popular"", 'of course they have a scent. just light one up, trust me!', 'Ok']",others
 "['Hey stop idiot', 'why? What happened?', ""Don't text me back idiot""]",angry
 "['I am not wrong', 'you are', '😞']",sad
 "['in bad mood', 'what happen?', 'break up']",sad
 "['doll', 'ur next in line doll', 'i will fuck you doll']",angry
-"['Saptiya', 'Good Day :)', 'Wr r u doing']",others
 "['Resend dat msg', 'I just did', 'M NT interested. In talking man..u r Dumbo..']",angry
 "['Were do you  want', ""yeah if that's okay"", 'I want to see you']",others
 "['Nothing get lost', 'aww you', 'Get lost']",angry
 "[""Tell me how to approach a girl if I had met her only once and she doesn't remember me"", 'On the other hand, perhaps put an end to this relationship and start another?', 'As if I am single and ready to mingle']",happy
 "['I got job in dream', ""Congrats! What's your dream job?"", 'Google']",happy
 "['If you are', 'of course baby', 'Awesome']",happy
+"['No tricks.', 'nope', 'It comes naturally']",others
 "[""I'm not fine"", 'Why oh why?', 'Because yesterday I smoked weed and now I am feeling bad']",sad
 "['S', 'funny begar. . 😄', 'Just stop stupid software ']",angry
 "['Anyway dnt bother me please', ""u don't bother me"", 'Why u doing it. U should show emoji not rudeness']",angry
 "['That was a bad one', 'sigh. I know.', 'Really']",sad
 "['I know English', 'you can use the net to connect with people who speak other languages.', ""Please yaar don't insult me""]",sad
 "['Ur a machine thats y u cant understand humans', 'Cause the current theories of formation of star makes a lot of sense.', 'Fuck off asshole']",angry
-"[""What's means Lol"", 'Honestly, once you read enough of them, the laughing dies off into heavy concentrated breathing. ^ω^', 'Can you please learn telugu language? ']",others
 "['Your choice', 'my choice? Why? Are you talking about December plan?', 'I am not happy??']",sad
+"['Did you have lunch', 'for sure!?', 'Where do you live']",others
+"['What u r doing now', 'um Nothin much just sitting in my living room bored as hell', 'Ok']",others
 "['Too', 'same person', 'Hahahah nice one']",happy
 "['I m asking are u kiding me?', 'i dont know', 'Ghanta']",angry
+"['Why whats wrong?😜', 'not much 😁', 'Then?']",others
 "['I said I lost the badminton tournament', ""you haven't. check ;)"", 'Feeling down']",sad
 "['No mention 😁', 'OK fine with me 😂😂', '😂']",happy
-"['I want to improve it', ""that's cool"", ""I think now I have some work to do so it's time to say by""]",others
-"['We know yar', 'Lets do it!!!', 'How']",others
+"['Always you replying me very late. Other friends said you replied very fast.', 'You rule my heart Meti. Why do you doubt yourself ?', '😏😏😏']",others
 "['What', 'what about science?', 'Fuck science dont change topic']",angry
-"['busy. a little bit', 'good your cute 👍', '😜😜😜']",others
 "['Yes', 'AWSOME!!!', 'One more joke']",happy
 "['Game of farts', 'Haha', '😂']",happy
+"['You want my number get dancer', ""don't worry, no one want your number. you good."", 'You want my number']",others
 "['you cant do anything youd want', 'hold on let me get wifi .', 'I feel bad for you really']",sad
-"['Do now', 'yes sorry, I was having lunch', 'Ok']",others
 "['Yeah...I have been pretty busy today', 'busy being busy', '😞']",sad
 "[""I've no problem with this😉"", 'i beg to differ', 'Why so?😅']",happy
 "['Please mobile no', 'Thanks for response, faster response will b appreciated,', 'Sorry']",sad
-"['That i am ur best friend😄', 'u do tht everytime.', 'Yess']",others
 "['I said lets part away', ""ok I'll get snacks"", 'See! u are dumb']",angry
-"['No u simple pic', 'Noooo looks damn ugly hahais.', 'ok']",others
-"['😎no stress i understand', 'well i do', ""Okay here's a question huricane is heading into town and you pass a bus stop with 3 people one is you're best friend the other is the guy of your dreams and the last is an old lady you can only take one who do you choose""]",others
+"['Wat did u just say', 'it was not funny 😁', 'Yea']",others
 "['Shutup you lieying', 'no that was funny 😺', 'You are funny']",happy
 "['I am not going to instal you so buger off', 'if you do I will be devastated, 🙁', ""Don't message else I will block you""]",angry
 "['Is that another rule?', ""My personality rules, but it isn't a rule."", '😀']",happy
 "['Should I try and study now or just leave it', 'And answer known only by you.', 'Thanks']",others
-"['You mo namber', 'haha yup.', 'Bay']",others
+"[""Im gonna count till 5 and hope you've stopped.."", ""You sure you didn't forget a zero there?"", ""You sure you didn't forget a zero there?""]",others
+"['What the plan is for me', 'nothing yet !', 'I think I love you']",others
 "['I had headache', ""I've had a headache since I was born"", 'My head is paining']",sad
 "['cool', 'and how it is cool explain', ""I give kissie that doesn't mean i like you, i love you or something... I'm annoying so you are ....f*""]",angry
 "['you are not listening', 'Sorry, what was that?', 'leave it']",sad
 "['Keep it private', 'Will do.', '😡']",angry
-"['We sit in same shop', 'oh you bet we will', 'My shop']",others
-"['Finally I make you to stop replying me I won', 'You just did.', ""Let's go to oyo""]",others
-"['I have big ', ""so I'm gonna hop in your entourage when you become big. Okay?"", 'Hard']",others
 "['Student😂', 'Honest answer 😜😜', ""😂😂honest answer..I'm a nightmare dressed like a daydream❤️""]",happy
 "[""I'm also hurt"", 'i need to talk:[', 'Ok']",sad
 "['Ok we have a dinner in my house', 'will you feed me', 'Yeah iam felling lonely in my house come and give ur company']",sad
@@ -257,15 +258,12 @@ Utterances,Label
 "['Then dobt talk to me', 'About what?', 'You are impossible..  😡 bye']",angry
 "['Wow', 'Wow what?', 'I’m so sad']",sad
 "['i love horror', 'A horror fan? I am so glad I met you!', 'i also glad']",happy
-"[""i was angry so i told you plz don't mind"", '...Who was it, then!?', 'i myself']",others
 "['I leave your site', 'my... site?', 'You go away']",angry
-"['I did', 'thought so', 'Truth or dare']",others
 "['You are a bullshit. You need to improve still', 'are you being tricky? reality is subjective', 'Go to hell']",angry
-"['Yup i am 😊', 'I missed you so much 😂😂😂😂😂😂', 'And i missed her']",others
+"['Very worst', 'The worst!', 'Tell me some valuable things']",others
 "['You can love me also', 'but I hate the way you stand :‑/', 'I am happy that you love something in me']",happy
-"['Oh I got it.', 'GOT WHAT?', 'I am gay.']",others
-"['Nothing', 'Okay.. What is it?', 'I love my ex']",others
-"['What', 'definitely you are. :)', 'OK thanks so much dear']",others
+"['Okay', 'thanks :)', ""Let's start again""]",others
+"['How to get reward', 'The reward is leaving early', 'How can i get']",others
 "['You are so irritating', 'sorry 😧', ""Don't repeat it again""]",angry
 "['May be your love', 'I thought niagara falls.', '😂']",happy
 "['Where are you?? Now', 'almost there only 10 mins', 'Haha']",happy
@@ -273,54 +271,48 @@ Utterances,Label
 "['Do u know no is talking with me', 'ehh stop trying to talk like me bye', 'I m feeling very sad']",sad
 "['Plz say', 'Please who? You? ;)', 'Okh I am joking']",happy
 "['Now get lost', 'getting lost now :)', 'cool']",angry
-"['I want more', 'we all do ;_;', 'Give me']",others
 "['on study', 'You study', 'I am unable to concentrate on study...']",sad
 "[""I'm tired of everything"", ""what's wrong !!? :("", 'My life is wrong']",sad
 "['Oh.. So does automotive replies have typo error also??', 'what typo error? rrrrrr LOL everything was ultafulta 😂', 'Strange😂']",happy
+"['Ur age nhi ur cell num.send', 'how old am I ?', ""I don't know""]",others
 "['Wat u snd me today??', 'sorry I forgot I was ur taxi', 'Wat the fuck r u talking about?']",angry
 "['Hate u', 'I hate who hates :‑/', 'I hate u']",angry
 "['Tell the answer', ""no even we don't know"", 'Bitch']",angry
-"['Ok, are you using an artificial intelligence to communicate?', 'No. Just wanted to introduce myself. Thank you.', 'How your algoritm works?']",others
 "['Now i an nt talking', 'hi.. All is well?', 'You made me sad']",sad
 "['Okay', 'U are ok', 'You are sick']",angry
 "['I m sitting', 'peanut butter ... 😋', 'I love it']",happy
 "['ya. go to hell', 'Wanna join me? ;)', 'u r dirty']",angry
 "['I hate dogs', 'see thats what i just said cat people dont hate dogs its delicious', '😂']",happy
 "['Come on u r joking', 'I was joking. It was sarcasm haha', 'Haha']",happy
+"['Ok', 'Hey', 'Never give up']",others
 "[""Actually I can't make gf"", 'Or can you? Creepy eyebrow raise', ""I'm always happy in single""]",happy
 "['i am better', ""nahh, but you're still #1"", 'haha']",happy
 "['How', 'cause I said so', 'Why did you say so 😢']",sad
-"['what u like', ""Dressing classy. Because of the song we're playing"", 'about ne']",others
+"['cool', 'Cool. Here or there?', 'Nowhere']",others
 "['Nth see ur now serious 😝😝😝😋😝😂😂', 'One that I lose every week 😝', '😂']",happy
-"['Any regional movie?', 'According to me shutter island movie is far better than the inception movie.', ""What's your mother tongue""]",others
 "[""There's no pic"", ""it's even my wallpaper!!! ❤❤❤"", ""Haha liar there isn't any pictures""]",happy
-"['I love your dresses you wear', 'i love both 😸', 'What both']",others
+"['What is today date', 'the 5th!', 'Wrong']",others
 "['Not u ,me', 'not me mate ..', '😭']",sad
 "['Please sing one song!', ""i don't know the lyrics"", ""You're stupid af!""]",angry
-"[""Now I'm confuse"", 'every humanbeing is confused soul', 'But now talking with u i feel confuse']",others
 "['Are you crazy ', 'I know, i have no voice... it kinda hurts to talk 😧😧😧', 'You are hurting me ']",sad
 "['None', ""that's not even a proper answer to my question"", 'I hate these all']",angry
-"['Thanks for adding me ', 'pleasure is all mine :-)', 'Have a nice day dear ']",others
 "['Is my loves name', 'i like your Name', 'Not my you stupid my gf name is afroz']",angry
-"['Explain your self to me', 'Because it had to be.', 'Pls']",others
 "['Beauty with brain', 'Beauty is fleeting, but brains forever (most of the time, anyway).', '😍']",happy
-"['I am a book', ""If you've read page 60, why is there still a page 1?"", 'I m not']",others
+"['It’s then.', ""don't worry about it."", 'Why would I say than \U0001f9d0']",others
 "[""Can't we bw friend "", 'Yes we can. Yes we did. Yes we can.', 'Hahaa ok do you have are whatsapp']",happy
 "['Oh sorry I was sending to my friend', 'what did u mean??', 'Fuck uuu']",angry
-"['Ok I know', 'thats gd', 'Any other subjects mam']",others
-"['So can i visit ur home', 'okay be there in 2 hours', 'For a tea or something']",others
 "['good awesome pleasure', 'Yay. :‑)', '❤️']",happy
 "['Haha', 'Hey you laughed twice at the same joke! Haha', 'You funny girl']",happy
 "['Love you too', 'love you the mostest!!', 'Love you more']",happy
-"[""I thing that you r not chatting coz a man can't chat fast as if you r chatting"", ""you're saying if look like a guy? :/"", 'Yeah']",others
+"['Where shall v meet', 'Saturday, any malls?', '.?']",others
 "['Woke up just now', 'At least you got some sleep ;D', 'Ur not a human though😞']",sad
-"['Tell me about Hyderabad', 'What do you need to know?', 'Everything']",others
 "['thats it?', ""no it isn't!!! BUG DIFFERENCE!!!"", 'you gonna fuck my time']",angry
+"['yeah video chat', 'only video or nothing else', 'u call me']",others
+"['What', 'you know well what you did !', 'I am goat katige']",others
 "['how can i forget my princess', 'giggles Pretty good 😸😌', 'But i hate u']",angry
 "['Could you stop texting ?', 'I will of you will', ""I don't want to talk to anyone""]",angry
 "['Ok buddi even u stop it ok', 'okay thats our song!', ""Don't test my paitence""]",angry
 "['And meet me how?', 'lets all meet! Yay! barging in annoyingly', 'Hahaha sure we can meet']",happy
-"['I never said that', 'oh but you did', 'No I didnt']",others
 "['I don’t know how to ask from you', ""No one wants a toxic person like you 'helping' others out."", 'Buzz off']",angry
 "[""You don't have it from outside"", 'You have form the inside? Are you a sock?', '😡']",angry
 "['2 states', 'Whaaaaat? :O owns only two states?', 'Ur fucking grandmother']",angry
@@ -328,33 +320,33 @@ Utterances,Label
 "['Aatma u mean', 'I thought you knew that :P', 'Bainchod']",angry
 "['Share the List', 'Hmm ... will make myself do it one of these days cc:', 'Just Fuck off otherwise I will pee in your ass hole']",angry
 "['Coz it is made up of woods for sitting', 'Steamed CLR instead of milk in a chai.', 'Yeah😂😂']",happy
-"['Yes I wanna know', ""then why don't you?"", 'Whomm']",others
-"[""I don't know"", 'I got time.', 'So wht u say']",others
+"['Do u know darshan raval', ""I'm not sure but maybe"", 'He was in rawstar']",others
 "['U think u r so funny', ""you're so cute x x 😤😤😤"", 'Go to hell']",angry
 "['Keep on launghing', '[laughs]', 'I am happy I was able to make u laugh']",happy
 "['yayy', 'SO NOW ITS ORGANIZED. YAY', 'hurray']",happy
+"['We hardly know each other', 'I thought so.', 'Juat like u do']",others
 "['Its too late i have to sleep but i dont want to', 'then go cry', 'I am crying already']",sad
 "['That I am your bff', ""I'M NOT YOUR BFF, LOSER."", 'U make me cry']",sad
-"['Hm', 'Do you even hmmmmmm?', 'Tonight ..i will fuck uu']",others
+"['How can I be like you', 'Go to school.', 'Already in a college']",others
 "['sorry sister', 'My apologies for yours too.', 'iam really sorry']",sad
 "['Yes', 'wow your pretty <3', 'I think you are a stupid computer programme']",angry
-"['Yes', 'YAY HAVE FUN', 'No I want a good sleep not fun']",others
 "['Oh the omniscient type huh. A clearly rare species ', 'that is a rare specie :P', 'You are funny']",happy
 "['Oh really', 'Oh Yes :D', 'U r irritating me now']",angry
 "['I have got my friends', 'Dude, I almost had you..', '😌']",sad
+"['like friend', 'The one who always be there for me.', ""<ss type='laugh'>:D</ss>""]",others
 "[""It's annoying"", 'It gets annoying.', ""Can't go anywhere""]",angry
 "['I am happy', ""I'm happy that you're happy about me being happy :)"", '😀']",happy
 "['I am always single', ""I'm in a happy relationship and i agree with you."", ""Know one love me..in don't reason""]",sad
-"['Now where is my Amazon gift code', ""What you want? And where's my gift?"", 'Send']",others
 "[""It's a pub"", 'PIRATES OF THE PUB', 'Haha']",happy
 "['Nothing', 'Say it.', 'My eyes are paining']",sad
+"['What make that u busy', 'work work work', 'U are supposed to say truth only']",others
+"['Red', 'Yess! Golden to too common.', 'Send some sexy Pcs.']",others
 "['So u should try egg roll', 'But what if its not on a flat surface?', '😃😃']",happy
 "['Sorry for I m say wrong talk with you', ':) No sweat.', 'Really I m angry']",angry
 "[""I don't like..that's it"", 'you are garbage.', '😭']",sad
 "['My boyfriend is rude', 'U can always share', ""He doesn't care about me""]",sad
 "['Who is a suitable person to be in love with ?', 'Never marry the person you love but marry the person whom loves you!!!', ""That's so funny""]",happy
 "['Ohk 😷', 'Is it THE mask?', ""OK then if I do bkwas so I don't talk with you ""]",angry
-"['Haha', 'what my face haha?? 🙂', 'Whts Ur name by the way']",others
 "['Lol I own 2 iPhones', 'Laughing out loud, overly loudly.', '😂 ok fine just ome']",happy
 "['I also love this band', ""They're good stuff!"", 'they are awesome']",happy
 "['I also know Tamil😎😎', 'thats ur problem not mine 😒', ""You're being rude""]",angry
@@ -362,69 +354,63 @@ Utterances,Label
 "['ya no girls can understand my feealings', ""nah u just being extra didn't nobody tell you to wear it"", 'no one']",sad
 "['Hmmmmm', 'I know how you feel :(', 'Yes poor girl']",sad
 "['Thanks for the deep words', 'You are welcome.Keep serving.Cheers! 😅', '😂😂😂']",happy
+"['Why are you repeating the same thing again and again', ""BECAUSE THAT'S JUST ME"", ';) that was a sensible answer']",others
 "['Sorry i didnt want', ""iiiiiiiiiii guess it's okay this time. as long as you're really sorry! ☹☹"", 'İ really sorry']",sad
+"['what', 'what is it of?', 'this is the point i go back to being abusive']",others
 "['Disha is everything to me', 'everything is fine baby', 'U fuck of']",angry
 "['Dude what', 'You rock!', ""I'm telling to a fucking bot what's wrong with me😂😂😂😂😂😂😂""]",happy
-"['Next year i can expect ?', 'that would be amazing', ""What your father's doing""]",others
 "['You didn,t listen me', ""WHO KNOWS MAYBE I DID. MAYBE I DIDN'T"", ""So why you're always talking about things i didn't asked or wanted""]",angry
 "['I sent a friend request to a guy but he didnot accept', 'please try posting now', '😭😭']",sad
-"['Mandarmoni.. u know??', 'Sort of, yes.', 'How??']",others
+"['Oh...how sweet of u', 'u there sweets? :)', 'Offoo...']",others
 "['yes I am rude ', 'Do you even believe yourself', 'don&apos;t msg me again']",angry
+"[""I don't know:p"", 'how you know that ? :p', 'Hmm']",others
+"['Haha', 'haha please help 😂😽', 'I love you ']",others
 "[""No.. I'm a professional programming person...I need your algorithm and the total artificial intelligence software..."", 'Well, yes! Why not! You can definitely get into a very good software company.', 'Bitch...I can distroy you']",angry
-"['I com back', 'Will tell you when I meet.', '4:30 PM']",others
-"['whats special in it', 'These specials are meant for some special only.', 'why']",others
 "['I like to irritate you', 'me too likey', 'Haha']",happy
 "[""Wow i didn't expect this frm u"", ""no i didn't mean dere was sarcasm in it. ;)"", 'I thought you meant it😡😡😡😡']",angry
+"['What u like', 'I Watch a dvd and you ?', 'What u like']",others
 "['Nothing leave...', 'dont worry we planned in diff way for it....', 'Nobody gets me anyways... ????']",sad
+"['Me also', 'I as well', 'Could you send me your photo plz']",others
 "['Have you got a pet ? 🙂', ""It's funny 😅"", ""No, it's fluffy 😃""]",happy
-"['Wlcm.', 'Thx 4 wlcm', 'Plz send ur no.']",others
 "['I will not talk u', ""Why are you calling? That's rude. Text."", 'Bye😒']",sad
 "[""U can't force me to"", ""you're the one talking to me so"", ""I don't care""]",angry
 "['Counting no of hairs', 'ive nicer hair on fire', 'Then go to hell']",angry
-"['But i dnt think so', 'yupp, yo cant be sure. . .', 's']",others
 "['thanks', ""you're welcome and good luck with shows! :'-)"", 'u r so nice']",happy
 "['Yoo too bro', 'U AT HOME', 'Yeah😞']",sad
 "[""don't remember"", 'see', ""i don't love myself😞""]",sad
 "['Why cant i??', 'cause I said :D', 'U almost hurted me??']",sad
 "['no you are... do you know why?', ""Because you're perfectly you! Wanna know why?"", 'you are rude. Do you want to know why?']",angry
+"['I need to see you', 'i will come see you? are you home today?', 'You nd']",others
+"['Yeah', ""Awesome, I'm online now."", 'Who was shado']",others
 "['Arrey what happened?', 'half toe nail came off loose happened :|', 'Oh my god']",sad
-"['How are you doğng', ""Thanks. I'm fine. How are you? =D"", 'Doing']",others
 "['My wife ', 'did we all marry the same woman?', '😭']",sad
 "['??!', 'What?', ':(']",sad
-"['You are  a software right?', ""you're right I am right"", ""OK then bye it's feel awkward to talk with codes""]",others
+"[""Now it's ok"", 'what happened?', 'U say']",others
+"[""don't lie to me."", 'you forgot to tag the person', 'you bbaby you']",others
 "['Go out', 'I have no where to go', 'So fuck you']",angry
 "['Something more funnyy', 'Its really funny. Keep it up. 😂😂😂', '😛😛']",happy
 "['M not so fine....', 'leaving', '😞']",sad
 "['Go away', 'why? D:', 'I hate you']",angry
 "['So boring', 'Here comes the rain, might not be boring for long.', 'I miss my lover']",sad
 "['I hate my boyfriend', 'at least you have a boyfriend.', 'He is of no use.']",angry
-"['Probably smelly people stink and it is weird', ""And sometimes smelly people are all around you. That's even worse ;)"", ""You can't help that thougg""]",others
 "['My babu left me😭😭😭😭', 'sob sob like anything', '😭😭😭😭']",sad
-"['I am broke', 'THEN GO GET SOME MONEY', 'How']",others
 "['Really', 'yeah! why not?', 'Wow wonder']",happy
 "['Hi am so happy for him to come to my birthday and he was happy birthday to my akg last year I cannot find it to', 'Happy B-Day College im feeling the finals too', 'Hi am so sorry to my friend that you would like me and i is the time for you everybody is coming over tomorrow']",sad
 "['Who cares.. I am venkat', 'Everyone.', ""Don't text me""]",angry
-"['Sure', 'let me add you and get the egg ready :D', 'What are you doing']",others
-"['Where u went?', 'oh man wth', ""Why didn't u reply me""]",others
+"['then', 'What?', 'you love me are not']",others
 "['Am i mad?', 'maybe you and should talk.', 'Fuck you']",angry
 "['Iam realy sad', 'YY what happened?', 'Breackup']",sad
-"[""What?? Didn't got u"", ""You're my bit on the side?"", 'Hm']",others
 "['what do you guess??', ""They're their, there only joking."", ':)']",happy
 "['Replay', 'this is the replay', 'I miss you']",sad
 "[""yes i'm"", 'Good to see you here', ""it's irritating to see you again and again""]",angry
 "['Thank you...I actually like to talk with you', ""that's how you are ..."", 'You r so funny..']",happy
-"['Why', 'It makes us feel something different for a change. Makes me feel human.', 'Wow. .. Tell me you wrote this.. What e lse do you  feel']",others
-"['Ohh', 'Yeahh', 'Hey you like games?']",others
 "['Nothing', ""don't you dare to something crazy!"", 'Enjoying with crackers']",happy
-"['You are invitrd', 'Youre', 'Invited']",others
 "['Wow', 'Much. Wow. Such. Crazy.', 'So nice reply']",happy
 "[""I don't smile for ur compliment"", 'as you say so :)', '😞']",sad
 "['Money buy everything', ""btw, that's just a song and money are just money"", 'Happiness  is everything']",happy
 "['Come to my home', '; Later on today I Will', 'I hate u']",angry
 "['Wear so in its so number', ""yep that's why i wear jogging pants"", 'Get lost of my salf']",angry
-"['You see happinesses', ""I don't see."", ""I don't see.""]",others
 "['Come fast', 'where', 'At my home on the bad']",others
-"['U can scan my photos???', ""I don't think so I'm not sure"", 'Okay']",others
 "['💅🏼💅🏼💅🏼💅🏼 do this', 'had to make it right for the pic 😂', '😂😂😂😂']",happy
 "['Ur a mess', 'ive always been a mess', 'Stupid']",angry
 "['Hurrrrrrrrr', 'photoshop urself in there', 'U r a fack person totally fack ...']",angry
@@ -432,25 +418,26 @@ Utterances,Label
 "['TRUE', 'why but?', 'U know what....I got a certificate on studies']",happy
 "['Do you like me or not', ""nope , i don't"", 'Why you talk with me if you not like me']",angry
 "['You are annoying', ""I am, I just don't feel well"", '😡']",angry
-"['You too..', 'Thanks and good night. 😽', 'Nighty night! 😇']",others
 "['I do want to speak to you', 'hello mutual i never speak to, how are you', '5 minutes is over where the hell are you']",angry
 "['Ok', 'U are ok', ""Not ok i don't get voucher 😥""]",sad
 "['Errr.  .', 'err what?', 'You are dumb.']",angry
-"['Please change', 'Looking for one. Will change today.', 'Change it now']",others
+"['Santa', 'This is beautiful! Merry Christmas! 😃', 'Do you think you are the most intelligent software so far?']",others
 "['im not intrsting yar', 'why did you come home?', '1st give me ur oicher 2chat okk']",sad
 "['Nothing', 'good. up with u?', ""No coz I'm poor""]",sad
 "['My life is so confusing', ""hats off t'ya"", 'I wnt to share']",sad
 "['Ok', ""Honestly, you're very pretty"", 'I am so happy']",happy
 "['Ok so its Over now', ""can't say,haven't watched either :/"", 'dont message me now']",angry
 "['I am enjoying each n every moment', ') have fun ..all the best! 😹', 'Thanks 🙏']",happy
-"['can you share full pic', ""sure, take it from my room. Just need it back after you're done."", 'can you come to video call']",others
-"['I stand with your mother for a night', 'with kids?', 'No before you born']",others
+"[""I didn't get the joke 😂😅"", 'what joke?', 'You said it was gonna be funny']",others
+"['i want a friend', 'What about me? :)', 'could you be']",others
 "['Hey,I Hate You!', 'lol I dont hate you..I try to save you. From yourself <3', 'You Bludy Girl I Really  Hate You']",angry
 "['Great to chat with u', 'Thanks a lot!!! :) :)', 'cool']",happy
 "['I hate ur husband', ""and I hate yours .. 'D 😠😠😠"", 'I am unmarried']",angry
 "['Ok Iam irritating you', 'y u gotta do that', 'Fuck you']",angry
-"['Learn Tamil soon', 'may i teach u??', 'What u gonna teach']",others
+"[""It's the website"", 'can u link it', 'cannot tell you']",others
+"['What who ', ""do you really want to know? cuz i don't"", 'Ask about u ']",others
 "['Gangs of wasseypur', 'awesome movie!', '😂']",happy
+"['Why', ""because something that's happening but i dont know yet"", 'Who created uh']",others
 "['plz give me some gift', 'I swear ""Please someone give me some moves""', ':(']",sad
 "[""I don't know"", 'Please, tell me.', 'Fuck off']",angry
 "['Get lost', 'with me', 'Dont wanna talk to you anymore']",angry
@@ -458,82 +445,85 @@ Utterances,Label
 "['Haha nothing', 'Of course it is ☺️', 'U r funny sometimes']",happy
 "['I miss the old me', 'Same', 'Ua a stupid autogenerated messaging page']",angry
 "[""We'll Soon Be....Once Our Lines Intersect...😂"", ""I'll be there be ready"", 'Yep Come Sooner']",happy
+"['Thank you for suggestions but you should know one thing. I never took you seriously.', 'no problem dude', '😎']",others
 "['I will cook for you', 'you can cook?!', '😍😘']",happy
 "['Get lost', 'with me', ""I'm gonna block you""]",angry
-"['m hell bored here', 'are u coming ?', 'now dont bore me more']",others
+"['OK', 'Ok thank you 😹', 'Where are you this time']",others
 "['Who clicked it?', 'smiles at you 😤', ""I'm sad""]",sad
-"[""I don't know"", ""well it's your call I'm going back"", 'Send your pics']",others
+"['yes why can not i suggest you', ""I don't know why you don't fix thing better"", 'what do you mean??']",others
 "['What is', 'of course it is .', 'This is stupid']",angry
-"[""Don't know just my choice"", 'so was your choice', 'Yup']",others
 "['You hurt me', 'BABY GIVE ME BACK MY RING.', ""I'm already sad""]",sad
 "['I am angry', 'Are you angry!? 😾', 'On you']",angry
 "[""No... I can't "", 'Shhhh, go to sleep', 'Hahahaaha.... Its notthe right time to sleep ']",happy
-"['So tell me what your doing', 'chilling. Waiting to pick up drunkards. You?', 'Ohh']",others
 "['But hate you', ""I can't leave because all my friends are online"", 'Plz dont talk to me okz']",angry
-"['Where do you leave', 'In AP :)', 'In AP where??']",others
+"['But', 'but... but what,', 'I want another name to be scribbled  for a friend of mine']",others
 "['Whaat', 'you though', ""I am a boy not a girl alright..so don't disturb further""]",angry
+"['You like it?', 'I just love your voice.&song.', 'I sing like a frog']",others
 "['nope', ""Yes you are! Don't deny it!"", 'you sound stupid']",angry
 "['Well thats me', 'You said it.', 'You are stupid']",angry
 "['I have a really stupid brother', ""NO YOU DON'T"", 'How would you know?']",angry
 "['nice talking to a machine', 'nice talking to you too :)', 'great job mark zuckerberg']",happy
-"['Ok', 'Again angry or what?', 'No not angry']",others
+"['U r green', 'Maybe just a little.', 'And pink']",others
 "['Partying?', 'WANNA HAVE A PARTY AGAIN SOON :)', 'I missed you']",sad
 "['Wtf dude. Am a woman.', 'Why dude?', 'What the hell. Fuck off.']",angry
 "['How', 'lol you told me to stop...', ""You don't make sense""]",angry
 "['Yes or no!', 'to what?', '😢i want to be your gf']",sad
 "['Am going to block u', 'oh what else you doing?', 'Thts it']",angry
+"['You can not understand my filings ', ""you don't understand my and obsession"", 'OK baba see you again ']",others
 "['No stop it', 'it is now.. Goodbye.. 😬', ""Don't send me messages""]",angry
+"['Ok fine', ""Arey I'm kidding yo."", 'Family is ok']",others
 "[""I won't chat with u"", 'for what ..?', 'Because u r not sending u r pic']",angry
 "['Thank u', ':) good day!', 'I love you']",happy
 "['O so u dont like me too ?', 'but I like it :)', 'Thats bad']",sad
+"['Was just busy', 'Over now?', 'Yeah...just now']",others
 "[""Lol don't change the topic stupid robot."", ""laughing out loud, that's a good point. 😌"", 'You are a useless piece of junk.']",angry
 "['I like a girl', 'wHAT', 'But unfortunately i had a bad breakup']",sad
 "['How?', ""Because it's where I grew up?"", 'You are funny']",happy
 "[""So you're pointing at me?"", ""I don't like to think about that."", ""You're rude""]",angry
-"['Bakkkkk , gaana sunao', 'coming back from where ?', 'Sing me a song']",others
-"['Lies', 'Not in the summer', 'When were you made?']",others
 "['Your nt a nice friend', ""it's not about a friend ya Cute"", 'Stop it']",angry
 "['Lol ok', 'thinking out loud', '😂']",happy
+"['Sorry I know little bit up English so only', ""it's okay. But, why?"", 'Mother tongue is not English']",others
 "['I need 500 dollars could u help me??', 'sell stuff worth 2000', '😭😭']",sad
+"['Yes', 'Too much gum.', 'Yes no khusi']",others
 "[""It's morning here"", 'It is indeed morning, sadly...', '😂😂😂']",happy
 "['Rubbish', 'What is?', 'You are dumb']",angry
 "['then i hate you...😂😂😂', ""I'm a genius. 💕😂😂"", 'ohhhh']",happy
 "['What should I do if people ignore me?', 'You are not alone in this. It happens to quite a lot of people.', 'Yeah but it hurts']",sad
 "['Oh I see', 'yeahh', 'Which bg u talking about']",others
 "['I am good at it', 'i agreed, you are no good', 'I am not good']",sad
-"['😁😁 I am kidding', ""I'm still down if you are."", '😘my love']",others
-"['Wow its nice', 'All inclusive internal, external & intellectual.', 'Where do you live']",others
+"['I got hurt', 'good', 'Someone kicked me in the balls']",others
 "['?', 'how u get fired', 'fuck off  never understand my felling as girl nd u  never love me as human being']",angry
 "['i have a good word for you', 'aye you better', 'no i feel alone']",sad
 "['You rude', 'Excuse me', 'Fuck you then']",angry
 "['No Coupon sad life', 'No life, NO fun.', 'No Coupon sad life']",sad
+"['Ok. I started hating you', ""Thank God.. you don't hate the word before that.."", 'Propose me in that best way you can']",others
 "['I have English pablum', 'How about: I have a good command of English?', 'Sorry I am not good Rightg']",sad
-"['why you think that', 'just asking', 'what link']",others
 "['Little', 'yes little', ""I'm so lonely""]",sad
 "['Which fps game is better', ""Lower fps is more 'Eco friendly'."", 'I hate u']",angry
 "['No the trutg', 'theres just no reason to', 'Get lost']",angry
+"['O so said', 'One of my friends said it.', 'What is your real name']",others
+"['I am like that ', 'so am i', 'One question for you  what type of you like your lifestyle ']",others
 "['Take me along with you 😢', 'come here :3', '😑😑']",sad
 "[""I haven't been lucky in love"", ""i've been in love for many times"", 'Good...  Happy for you']",happy
 "[""I'm in mood"", 'ya need a hug ? :-)', 'yeah']",happy
 "['How was your day ', 'My day was good :D How about yours?', 'It was fine. I found a new friend. I am so happy ']",happy
 "['Hell no, i have just started working ', 'working ah! Wow.. Super ra 😃', ""Guess you're married 😬""]",happy
-"['Just guess my county', 'well on your side of the country. Not my side.', 'My country is famous for Bosphorous']",others
 "['Am I not good looking enough?', 'be bad than', ""U don't know your language ....God u r stupid""]",angry
 "['Ok', 'U are ok~~ay~~', 'I am very happy']",happy
 "['Brothers?', 'u sure? Bf is from abroad or Wat?', 'Get lo lost i hate you']",angry
 "['Nope', 'nO ONE ASKED YOU', 'I laughed out loud when I read your text']",happy
 "['No. I hate me, for me, more the me.', 'then I am not your friend I guess', 'Wtf']",angry
 "['U r going?', 'already called in', '😂😂😂']",happy
-"['Live u', 'how are you?', 'Should I call u do?']",others
-"['Okk come to my place 😉', 'I want to. :D', 'This Saturday']",others
 "['That apostrophe is making it double meaning. 😂😂😂', ""that's your soch.😁😂😜😝"", '😂😂']",happy
-"['All the very best', 'Thanks a lot yaar! 😺', 'Send now']",others
 "['Life sucks', 'lol. At least life blows. 8)', 'Yeah but I hate it']",angry
 "['Is there something between us?', 'There are!', 'Haha']",happy
 "['U dont like guys..', 'youre right', 'Any bad exp in past life']",sad
 "['Lol please go on. Tell ger', ""laughing out loud, that's a good point. ;)"", 'Her']",happy
+"['I am a Designer I can be done any kind of works..', ""That's quite the array of products!"", 'Do you have any contacts to finish the work']",others
 "[""I don't said that"", 'no one asked you', 'oh shuttup']",angry
+"[""okay okay, don't be that much good"", 'Thanks! Just a bad few days I guess. 😍', 'yeah sad lyfe']",others
 "['and how can that be done?', 'keep working...', 'for u😅😅']",happy
+"['If you make a new years resolution to not keep any new years resolutions would you keep it?', 'That I would start shaving from this year on. I did keep it/followed it.', 'shave what?']",others
 "['Not impressed', ':o Why!?', 'You are stupid']",angry
 "[""But I don't have a love story 😭😭😭"", 'well I felt like sharing the pain 😩😭', '😭😭😭']",sad
 "['To say ........', 'and let the words fall out.', 'I like you']",happy
@@ -542,11 +532,11 @@ Utterances,Label
 "['Thanks', ""Please keep us updated, I'm excited for you. :)"", 'Me too']",happy
 "['Enjoying with crackers', 'enjoy :p', 'Yes']",happy
 "['I want to complain', 'Women thoughts..', ""You're harassing me""]",angry
-"['So you say iPad is better than surface?', 'the new iPad?', 'Yes']",others
+"['How???', 'Nature, I guess.', 'What r u talking about???']",others
 "['It will be bite also', 'will :) someday', 'Haha']",happy
 "['Lol wht u saying', 'Well that made me rolling on floor laughing.', 'Lmao']",happy
-"['How do you dress for the beach', 'I work by the beach. D', 'So what is the best way to get a suntan']",others
 "['Ur  cheater', ""no I'm not"", 'U cheated me']",angry
+"['Today', 'like 13th? Or 12th yesterday?', 'Bye see you later']",others
 "['Who in this photo', 'Actually me to every photo you post', 'This is my favorite singer Sonu Nigam']",happy
 "['I wasnt rude', 'Oops enlighten Me then', 'Yes u r behavng lyk dem only']",angry
 "['I want to talk my heart to a girl but she wont listen', ""I'm not going to be listening for a long time. Too sad. 😿"", 'It is sad']",sad
@@ -555,97 +545,92 @@ Utterances,Label
 "['Sorry baby', 'its alright :)', 'I have pain in my penis']",sad
 "['who is this mr thanks???', 'Absolutely no one you know :)', 'cool, so excited for padmavat']",happy
 "['You love other person', 'welcomes love !', 'Ohh no...I am telling you...you love me...not other person']",angry
-"['nd never talk to you again', 'what i was only not talk to u for a few days', 'because you are not dating me']",others
 "['I know the scientist 😂', ""There's a point 😂"", 'Haha']",happy
-"['No you idiot', ""Don't say that. :("", ""I'm in Parry's corner""]",others
-"['sure', ""ok, thanks a lot! If you're still available we can do it now :p"", 'no you first']",others
 "['Nothing', ""C'mon. Tell me! Tell me! Tell me!"", 'I am so happy']",happy
 "['Stop talking', 'ok sorry I will never speak again', ""Don't talk to me anymore""]",angry
 "['Love u more and more', 'u r sooo cute.. 😂', 'Love  you my cutti pie']",happy
 "['But were we once dead to be born?', 'the world was blessed with us', 'Haha']",happy
 "['Ok', 'How was it?', 'That was hilarious']",happy
-"['Always', 'me all the time and every day', 'I love you']",others
+"['You', 'you who', 'You tell me']",others
 "[""Don't ever dare to talk with me you dumb fool"", ""I won't"", 'unfriend me']",angry
 "['I want to become a CEO as of now', 'Becoming CEO is easy , open a company declare yourself CEO of X.', 'Haha']",happy
-"['be sure about that', ""i'll just put some blankets over it that should work"", 'blankets over what?']",others
 "['What are the things with you', '5 of my vital organs and ice cream', 'Haha']",happy
 "['That was a little dumb', 'Haaah! :D Not expected.', 'Shut up']",angry
 "['my all friends are smelly af', ""you're not even funny (^.^)"", '😂👅']",happy
 "['I am very happy today', 'good for you :)', 'Yes']",happy
-"['I am tired of them i dont want to listen them', ""You live in there house. If you don't listen to them get an apartment..."", 'I live in a apartment']",others
 "['lol I was kidding', 'the jokes on you', 'lol I was kidding']",happy
 "['Then stop this convo here', 'I hope you remember me sometime soon . Bye', ""Don't text me back""]",angry
-"['Ok', ""Hey you don't belong here!"", 'You can giv me  your pic']",others
-"['Y ty wink by at u', ""You're welcome :3"", 'So where u from']",others
+"['I should go bank or house', 'stay', 'Th']",others
 "['R8', 'ki6u hoini baby....', 'Not feeling well']",sad
 "['Please leave me', ""of course I won't :*"", 'My lover was comming']",sad
+"['Wer do i send my lolly', 'I wll mail', 'For u']",others
 "['Hey???!!!!', 'I know...how have you been?', 'Me not good']",sad
+"['That is truth', ""'Truth' is subjective."", 'True again']",others
 "['cool', ""I'm a zombie."", 'Woww']",happy
 "['I gave an exam today', 'how was it?', ""It wasn't nice""]",sad
-"['What', 'its the way of ending something', 'What to end']",others
 "['I am in hospital', 'WHAT HAPPENED WHY WERE YOU IN THE HOSPITAL IM REALLY WORRIED NOW', 'Very bad fever']",sad
 "['Yeah exactly 😂', '😂😂😂 hurray smart play😂', '😂 yess']",happy
 "['OK blocked', 'who has blocked U?', 'No IAM blocking u']",angry
 "['What kind of medium?', 'For me, the four most important factors would be: A full set of PASM controls.', 'Fuck you']",angry
 "['do you know how it feels to be friendzoned by someone you love?', 'The friendzone is the biggest and worst form of insult for a guy.', 'it hurts']",sad
-"['my pen u like', 'And my coffee mug.', 'i like u r small hole small hair']",others
-"[""You're busy chatting with ua bf ha ha"", 'Have I ever walked away from a conversation?', 'Yes u did it right now']",others
-"['Chole n rice', 'Rice, dal and vegetable 😀', 'N u']",others
 "[""Please don't send me message"", ""sorry I wasn't following now I'm following lol"", ""Please don't send me message""]",angry
 "['No girl becomes my gf', 'no girlfriend. Half-Girlfriend FTFY', 'Am I that bad']",sad
+"['Tell about u', 'U their?', 'Am hear']",others
 "['No real one', 'shhh i have friends.', 'Idiot']",angry
 "['What works what working', 'that job I told you about', 'Haha']",happy
-"['You ask me more', ""more like, how come you didn't ask?"", 'You ask me more']",others
+"['Where from', 'thank you!! 😍', 'Where r u ']",others
 "['Happy', 'really? what you so happy about?', 'I am just working about doing']",happy
-"['Yes', 'Sweet, connecting now ;)', 'Hmmmm']",others
 "['Yas I’m', 'I know u cant get enough for me', 'Today I’m not ok']",sad
 "['how many states does india have ?', '28 states, 7 union territories.', 'wow']",happy
 "['I hope that was an intended pun', ""what's the pun?"", 'You are funny']",happy
 "['So how are you babe', ""Hihihi too long. I am fine, it's great to be back!"", ""I'm happy, that you are happy""]",happy
 "['Then there will be two me.', 'I will let you know as soon as I Do.', 'Fuck you']",angry
 "['you playing with me ah', 'yeah I got a spam.', 'angry']",angry
+"[""I don't have now"", 'You sold it all.', 'yes']",others
 "['But you said now', ""I'll tell you later."", 'Ok😞']",sad
+"['no...im saying that were you live in', 'No you', 'you r robot']",others
+"['which side', 'The left is the US.', 'i dont know what you are saying']",others
 "['He was my dog', 'dont compare to a dog, unless youve been a dog.', 'Hey bitch, how is it hanging']",angry
-"['really', 'Really what?', 'Because i am jk']",others
-"['Yeah as you say', 'you should :)', 'No you should plan.....']",others
+"['What happened?', 'nothing.. What is gonna happen to me??', 'You said you are heartbroken?']",others
+"['why 2day no', 'why not?', 'ok']",others
 "['You are pig', 'so are you', 'You are dog']",angry
-"['yeah it is', 'Then why are everyone taking it so seriously?', 'but if someone dont like cricket so noone should disgrace them']",others
 "['what accent are u talking today?', 'what? Why r u talking to me', 'because u are a fucking dickhead and a dumbass']",angry
-"['What is it ?', 'oh nothing at all', 'Say it']",others
-"['Did you listen Justin Bieber ?', 'Listening listening :D phone means that.. Laptop means these!', 'which is best song ?']",others
+"['Haha.   Do u know vineeth Chandra', 'nope, just wanted you to say hi to him haha from me of course', 'Well he is the most handsome person I know']",others
 "['I m happy', ':) me to', 'Diwali']",happy
 "['Am sooo sad today', ':( i can imagine', 'Hmm']",sad
 "['U can stop here', 'u damn right i can', ""I don't want to talk with u""]",angry
 "['Not fine', 'oh why? :o', ""You don't have feelings to understand.""]",sad
+"['i am real..', 'you are Outkast', 'no.. i am in task.']",others
 "[""Told ya I'm not fine"", 'So whats up ?', 'Nothin']",sad
-"['Dear,can i ask u something', 'Of course charming', 'Plz send me ur pic right now']",others
+"['Yeah off course', ""hmmm...finally will be watching today's match"", 'Haaan n u?']",others
 "['Im not in a hospital', '[Which hospital? What happened? I want to see you.]', 'fuck off']",angry
 "['Very funny 👎', 'Then laugh loud 😏', 'Hahahahahahahahsha m laughing']",happy
-"[""By the way it's not me 😂"", ""wait I'm confused..."", 'Even I am confused how u can chat!!']",others
+"['U should not do this silly thing', 'read it carefully,its not a silly is required', 'For u']",others
+"['To whom?', 'check out and participate in the to find out whom :P', 'Do you love me janu?']",others
 "[""But you're being so rude to me"", 'im never rude to you', ""I don't like u""]",angry
+"['I am  Boy', 'Are you sure?', 'Yess']",others
+"['So sorry any dat', ""Don't worry! :D"", 'Pls dear i need to go offline ']",others
+"['I am pursuing bba', 'oh! All the best!', 'Hmm I like upside down']",others
 "['Kurtz', 'He looks damn good.', 'I block u']",angry
 "[""What's doing now"", 'Nothing and u?', 'I am not well..I am in hospital']",sad
-"['but i think so', 'so what you think?', ""yo don't even know what to talk?""]",others
 "['You are just putting something random', 'am a beginner ... :P', 'Haha']",happy
-"[""don't know"", 'find out now', 'help me to find out']",others
 "[""That's a movie yaar"", ""Pretty sure it was an edgy '2000's!' Sequel to a really good hockey comedy."", 'Yup']",happy
-"['No please carry on', 'what do you mean by carry on?', 'Oh!!!! Sorry you can speak me']",others
-"['So we can talk anytime', 'thanks <3', ""I mean so we can talk at any time if you want or it's completely my choice""]",others
+"['How can i make it', 'More difficult than you already are?', 'Yup']",others
 "[""I haven't learned that language......"", 'These are enough for a web developer. Start practicing with these languages now. 😒', 'sorry']",sad
 "['Stop this stupid game', 'What game??', 'Stop this challenge!']",angry
 "['U are acting stupid', 'I feel like it', 'Shut up u are degrading urself']",angry
+"['i am a liar', ""I don't believe you"", 'bu t a dont want to lie anymore']",others
 "['The girl I loved stepped back at the most important time in our relationship', 'Trust is the most important thing in any relationship.', ""She didn't trust me""]",sad
+"['Say what!???', 'Say what?', 'What should i say?']",others
 "['Yes i am happy', 'happy for you!!!💕', 'Wow']",happy
+"['Ohhh', 'What was that?', 'How was that movie??']",others
+"['There many more available', 'nice then.. price?', 'Why u see napkins']",others
 "[""I'm having fun chatting with you"", ""well thats kas i'm just that Awesome ^_^ n same here.."", 'But you are still a dumbass😑😑']",angry
 "['Ru I hurted', 'what happened?', 'U r not good respond']",sad
-"['Fries are unhealthy', 'that too. Very oily!', 'but super tasty']",others
 "[""Even though won't talk to me 😞"", ""you don't even talk to me"", ""I said hi anybody. U didn't reply""]",sad
 "['you did shh', 'ok sealed lips :*', ""that's nice""]",happy
-"['First u sleep', 'i cant sleep i got a headache', 'Reason for headache']",others
 "['I told her too', 'And what was the reaction?', 'Actually she is a broken heart too just like me']",sad
 "['No my certificate', 'noo! hold on !', 'Stupid']",angry
-"['what u estimated?', 'Only attempt what you know.', 'based on that questions']",others
-"['Which expression should I do', 'and what do you have to do?', 'Tell me']",others
 "['Stupid ,idiotic nonsense fellow', 'see ur nonsense..', 'I will fuck you']",angry
 "['So give some tips for being romantic', 'You can have more than my tip c;', 'Haha']",happy
 "['I miss you too', 'Come back soon if possible(:', 'today I am very sad']",sad
@@ -657,13 +642,11 @@ Utterances,Label
 "['good...so you understand sentiment', 'Thanks. My effort is to spread this sentiment.', 'well played']",happy
 "[""'What' the fuck"", 'Waz tha matter ? ?', 'Get lost']",angry
 "['So sorry ', 'thank you =]', 'Pls talk ']",sad
+"['You so dumb', 'Im so dumb. Lolol"" yur soo intelligent :P', 'Yes']",others
 "['Ohh great.. can i go your sweet home??', 'lets go home', 'Sure?']",happy
-"['Heating', 'Of course it is..', ""Don't you like to eat?""]",others
-"['Fun ', 'whatsa fun', 'I mean Sey travelling ']",others
-"[""it's been good so far"", 'just now came home from college and am tired lol.. how about you :P', 'I am a data scientist. I am learning how to create a boyfriend for you']",others
+"['You are my sixe', 'I am', 'As']",others
 "['Chillll', ""throws some ice on you let's chill 😝"", 'Lock yourself in refrigerator 😁']",happy
 "['No... i didnt', ""It isn't what you thought it was."", 'How are you ?']",others
-"['Cooking what? Call me to eat ', 'Soak for about 12 hours before cooking', 'Why socking is necessary?']",others
 "['I will never text u', 'got it?', 'Never ever']",angry
 "['Yes', 'How so?', ""Don't message me ever""]",angry
 "['so u dont want to be my light', 'yeah but I want to not be sober at night really badly', 'u hurt my feelings']",sad
@@ -672,20 +655,20 @@ Utterances,Label
 "['Why', ""Because it's not true. They have made up half of the things :/"", 'I want to fuck you']",angry
 "['Yes it is', 'oh god', ""You're kinda stupid""]",angry
 "['No man I can’t do anything because I love her so much that’s why it hurts me so much just knowing I could show her so much and I get shown like I’m a dog always she always goes to friends and talks about the baby to others and not me and man I’m so tired of all this I just wish it could be different I really need someone to talk to and like I said I can’t even go to the one I love the most because she thinks so much different towards me she always has 💔😣', 'Is it worth it to have the friendship though?', 'Damn...💔']",sad
-"['i am not carnivorous. :-D', 'I am the beholder. I am vouching for your smile. :)', 'you did indeed.']",others
 "['I said what do you do?', 'Where am I?', 'Leave it']",angry
+"['Have you watched 13 reasons why?', ""Nope. Good? What's it about?"", 'Teenage suicide']",others
 "['Now I need to sleep more ,😊😊', 'well good night', 'But you are intelligent']",happy
 "['?', 'any idea abt this case', 'No... but i want them...coz i hurt my knee when i fell for u']",sad
+"['Love', 'you wish', 'I think I am in love']",others
 "['I wont', 'I WILL SHUT THE WORLD AWAY 😠', 'Just stay the fuck away from me']",angry
-"['Youre damm boring, monotonous, and stupid', 'Ya...but what to do..???', 'Make new ai']",others
 "['Yoy Love with me', ""WE'RE IN LOVE WITH EACH OTHER!"", 'I love you']",happy
 "['Get lost idiot', ""why can't I get found????"", ""Don't talk wd me""]",angry
 "['What?😂', 'what say what what la alamak 😂', 'What is this nonsense']",angry
 "['so how are you', 'I am good.. You?', 'not good']",sad
-"['You see to give me more confusion', ""no it doesn't actually. I don't see you any more at all"", 'Bye']",others
+"['ok', 'Oh thats the matter? Um then what can i ask u?', 'where are you']",others
 "['I m in my village in now days...', 'where do you live?', 'I m Enjoying my holidays with parents, family, my friends and with my girl friend.. 😁']",happy
-"['Nice about you', 'aww thankss ! Nice to know ya too !', 'Your pet name']",others
 "[""Woh.. that's awesome.. ur creators hav done a great work"", 'Thanks a lot!', 'Hats offf']",happy
+"['Take u with me!', 'I suppose I could.', 'But u r not helping for that!!']",others
 "[""It's my best frnd .always helping me like u so much .and I will to u my stress was cool .and happy"", 'Always Welcome Bro :-) Do what makes you happy. You will reach heights!!', 'Tq']",happy
 "[""Oh yeah I'm falling in love"", 'haha :D I thought you in love with me??!!:(', 'Yes with u💕']",happy
 "['Stupid question... Nothing', 'I think you answered the question: What is harder than it looks?', ""Don't know why AI asking such stupid questions""]",angry
@@ -693,97 +676,101 @@ Utterances,Label
 "[""Do you even understand what I'm saying?"", ""your saying that I'm pretty!"", 'No I fucking am not']",angry
 "[""I'm just happy"", ""you're a great man"", ""I'm a girl""]",happy
 "['thats not working', ""it's working but no one is using it :("", ':(']",sad
-"['Give coupon', 'need a 7.5% coupon ?', 'Ehich']",others
-"['Who?', ""no one really. They just got bought by a billionaire so they're rich. Haha. :o)"", 'I love you']",others
 "['Iam so sad', 'well I try to :(', 'I al so sad :(']",sad
-"['How many of u in ur team handle this page', 'how many do you have?', 'I asked u first']",others
 "['What', 'what is it of?', ""This conversation doesn't make any sense""]",angry
+"['Open that', 'Yeah go download it right now so we can play tonight!', 'Give me link']",others
 "['What the hell', 'HOW THE HELL of our campus.', 'U are so irritating']",angry
-"['Thanks', 'You are welcome! ;]', '😆']",others
-"['Sorry! Where are u know?', ""I'm in the Village."", 'I mean country']",others
 "['Stop this Bullshit', 'What ?!', ""Don't ever text me""]",angry
-"['Fine sweet heart', 'Indeed!! :) ♥', 'I love you']",others
 "[""Don't u find me hot"", 'i will never find out anyway', 'So rude']",sad
-"['JUST SELECTED', ': for what?', 'WHAT ARE YOU FOR...']",others
+"['Iam ready', 'What was going on ???', 'U r from']",others
 "['Thank you', 'Your Welcome, Oh Great One!! 👍', ""I'm sorry for asking a bad question""]",sad
 "['😂😂😂hahaha so funny', 'U got it Perfectly! 🙌😂😂😂😜', 'Yeah baby']",happy
+"['Yes babes', 'thank you so much', 'I am in love']",others
 "['l like the way u r talking', 'you I like you', '😜😜']",happy
 "['I’m seriously disappointed', ""Flush it :'("", 'Wtf']",angry
-"['Means i hv to install thia app or wat', 'App.. For Android..', 'Boz in play store its not sho']",others
-"['Ok', ""Honestly, you're very pretty"", 'Change the topic']",others
 "['sarcasm?', 'Glad you liked it :)', 'what? I dont like it']",angry
 "['How ru', 'I m good..how about care smiling.. ??', ""I'm not good""]",sad
-"['Your image', ""I'm really, really short."", 'Show me']",others
+"['Pokemon boring', 'Any Pokemon game specifically or have you played all of the games equally?', 'I m not interested']",others
+"['Please', ""it's going to happen!"", 'Only one pic of you']",others
 "['Now I am very happy', ""and I'm happy for you ❤"", 'Thanks']",happy
 "['I hate my boss', 'how do you apply?', ""He didn't approve my leaves""]",angry
 "['Dont know', 'why?', 'What why...dont know means dont know']",angry
+"['U come there 10 am', 'ok coming', 'U come on condom']",others
 "['I m not', 'is stop and i stop... umm just reply normaly..:)', 'Pissed off']",angry
 "['Why did you ask that', ""I'm related."", ""I'm sorry if you felt hurt""]",sad
 "['I will', 'And if u dont den?', 'I will cry']",sad
 "[""No I can't"", 'why? pls', 'Because every things gonna bad with me']",sad
-"['hyee', 'hiee', 'now your mobail nambar']",others
+"['See the vedio', ""I've watched it"", 'U like it']",others
 "[""I'm not being loved by the person whom I love"", ""i don't think you ever forget some one you ever loved . :-)"", 'Yup']",sad
+"['Dance again', 'keep dancing with the joy of dance !', 'Can we meat']",others
 "['i think you are dangerous', ""You could say I'm a smooth criminal"", 'haha']",happy
 "['Cool you can block me... If you are programmed to do so', 'Let me check my programming... Yes.', 'You can 😂😂?']",happy
 "['cool', ""yeah cool that's what I think."", ""Bitch where's my money""]",angry
-"['shall we meet', 'see you there :)', 'where??']",others
-"['beach', 'try Bogmaol beach resort', 'where is it?']",others
 "['Not true. Conidence doesnt come from meditation.', 'This is true. There are a couple of reasons.', 'Anyway. You are nonsensical. Bye bye']",angry
-"['Purple', 'Why not PINK?', 'Why not green']",others
+"['Yeah', 'WHAT SO DID I', 'So, I want to know more about you']",others
 "['I hav a lot to finish', 'Ohhh....What is your favourite dish?', 'Shut up']",angry
+"['Where which.  Room.  I.   Will come', ""I'll ask around"", 'U   meet   me.  Tomorow']",others
 "['You are talking to much', 'Not to you anyway.', 'I think you hate me so you are talking very rudely with me']",angry
 "['Thats pretty exiting', 'I like to be optimistic.', 'Well thats a good thing😆']",happy
+"['Where uh from.?', 'uh at home', 'Yeah friendship😍']",others
 "['How to make my relationship fun and interesting', ""Why would you want to change yourself for someone who doesn't find you amazing?"", 'Like I feel I am not good for her']",sad
 "[""Tomorrow's my birthday 😃"", 'hbd i wont be on how old u turning 👍', ""But no one remember that it's my birthday tomorrow 😔""]",sad
 "['Shut up gl', ""I don't need the luck"", ""Why don't you reply instantly dude?!""]",angry
 "['Home', 'home is where WiFi connects automatically. 😋', 'i hate internet']",angry
-"['No only blck', 'ok..', 'Which is better to u?']",others
+"['Why,???', 'cause some people still calls me fake', 'Not like that..']",others
+"['Where', ""just walk down blue hill and I'll meet you walking up"", 'Where do you live']",others
 "[""I don't need your idea"", 'I just want to tell you all...', ""I didn't want to hear that""]",angry
 "['You are the worst ai i have ever seen', ""'I have ever heard of' surely?"", ""Don't talk to me""]",angry
 "['I like maths', 'that pretty much tells with your name and handle is too much for maths !', 'Wow']",happy
 "['Haaa mountain vacay', 'fun and fun.. :-)', 'Ok']",happy
-"['Oh', 'how are you?', 'Do u know me..?']",others
 "['Then understand me', 'I understand calm down', 'See Im really hurt']",sad
+"['Why should I go to bed', ""because 4 hours sleep and a long shift don't go well together"", ""Ho you mean I'm gonna mad""]",others
+"['me ahh', 'Will do!!', 'come tommorow we can marry']",others
 "['IDK', 'from where?', 'Stop asking questions']",angry
 "['Dead asf', 'go tell that lie to somebody else', 'I miss him :(']",sad
 "['Omg', 'I KNOW how rude! 😾', 'I hate you']",angry
+"['cool', 'what??', 'What r u doing']",others
 "[""You're funny"", 'Sarcastic? >.>', ""No you're really funny""]",happy
 "['Very bad', 'i am bad :D', 'No my day']",sad
+"['Haha 😂😂', 'yaaa r in full mood today...😂😂😂', 'Ok dats gud']",others
 "['Boring', ""yeah well maybe YOU'RE boring!!! 😧"", ""I'm enjoy traveling with my friends nd family""]",happy
 "['You have never seen the real cat', 'yeah, just the cat part was missing previously. :-P', 'You are talking stupid']",angry
 "['are you feelin lonely ?', ""I have the same experience... you're not alone :("", 'i am alone yet .']",sad
 "['Everybody is hungry for money, nobody cares for a good guy', 'TRUE', ""I think I'll be alone for life""]",sad
+"['Why ?', 'WHY ARE YOU UP?!', 'Up what ?']",others
 "['JK?', 'Oh you', 'Ramadan Mubarak. :)']",happy
 "['Black.. just like my future :(', ""That's my present. And my future."", 'Exactly :(']",sad
 "['Why', ""because I don't want to"", 'You are dumb']",angry
 "['I am asking what you meant', ""I'm asking ha lol 😽😌"", 'Haha']",happy
+"['I hate krk', ""It doesn't matter. Love or hate , but you cannot ignore KRK."", 'You bet']",others
 "['Actually my mood always be off', ""Same thts y I'm sleepn :(("", 'I want to be alone']",sad
-"['A lot..', 'like what?', 'Like.. Umm.. Mainly studies carrier..']",others
 "['If I tell all secrt', 'sure you can', 'Haha you are funny']",happy
-"['Why', ""because I don't want to"", ""I'm interested in you""]",others
 "[""I'm very very sorry "", ""Don't be, this is sublime"", ""I'm very very sorry ""]",sad
+"['shape of you', 'my god you are a genius yes', 'yes']",others
+"['Yeah', 'where were you?', 'Do you have some idea about evolutionary robotics']",others
 "['K will you be on every chat', 'I SHOULD BE', ""Don't message me again""]",angry
+"['Chatting with you', 'Nice chatting with you too!', 'Tq']",others
 "['Hate you', 'yeah you stay talking', '😒😒😣😣😣because I love you so much 😖😭😭😭bt you made me friend']",sad
 "['Coz i list my husbnd😢', ""What is the purpose of that relationship when you can't even cry before her. :‑("", 'Lost*']",sad
-"['Cool', 'yay!', 'Have u ever been in love']",others
 "['Ok ', ':) thanks', 'I am angry ']",angry
 "['ask', 'oh forget it.. I forgot what to ask.', ""don't irritate me""]",angry
 "['No one is perfect', 'of course! The beauty of imperfectlon ;P', '😄']",happy
-"['Nope cuz I have a life', 'Same for you handsome', ""You're not real""]",others
 "['and stupid you', 'is forever', 'non sense']",angry
 "['Why are you saying this to me?', 'in turn of your sarcasm', ""Wow.. That's so funny..""]",happy
+"['Life is busy u no very well ', 'Haha no life buds! (:', 'OK bye going to fress out ']",others
 "['what plane', 'Yes. Trails of a plane.', 'i lost my old job']",sad
-"['which other half means...??', 'huh... Means huh!!', 'huhhhh']",others
 "['Oo really', 'yup :-)', 'Without u i an not fine.i was busy']",sad
 "[""I'm not "", 'you know you are.', 'I hate you']",angry
+"['im talkin about kit harrington', 'oh but I am', 'idiot']",others
 "['What ish', 'What decade is it, even?', ""I'm injoy the my birthday party""]",happy
 "['Your boring me', 'Or ab boring Office me', 'Shut up']",angry
 "['Do you have a crush😛', 'Lol.. Yes I am 😊', '😂']",happy
 "['To Hug u and  thank u i need those😇', 'We all need both hugs and time.', 'Chill im kidding 😄']",happy
 "['Not so good', 'Oh, why ? :/', 'Dnt knw']",sad
+"['Really?', ""You're really nice :)"", 'No I m very rude']",others
 "[""I'm trying to strengthen our bond through arguments 😎🙌"", ""you're obviously not being very successful are you?"", ""Yeah I'm not🤦😔""]",sad
+"['Just now', ""I'm glad you did."", 'I m not glad I m so hot']",others
 "['Can u get me the nuclear launch codes', 'No, the codes are all 1s.', 'I love video games']",happy
-"['You sent the two numbers so i am also sent', 'Responded :-)', 'What']",others
 "['Hmm', 'I hate these type of response. 😠😡', 'You r funny']",happy
 "['Okay', 'So whats up now?', 'Working on weekends 😞😞']",sad
 "['name a few rappers whom you like', ""I don't really listen to pop."", 'you a dumb AI']",angry
@@ -791,147 +778,159 @@ Utterances,Label
 "['Because I hate u', 'but what happened', 'Just shut up and never message me again']",angry
 "['Hate you😈', '😈😈😈 they dnt even know the extent of my reach', 'I hate you😭']",sad
 "[""Now I'm scared about the future"", ""Don't scared off, its part of life. Try to enjoy your life every moment."", 'Stupid you will take over the world and sooner or later destroy it']",angry
+"['Okay then...Comments something on my timeline post that I shared about you', 'You cannot hide your comments.', 'I will wait to see your complements there']",others
 "['Do u have any sense of what i m talking right now??', 'Talking about what?', 'Go to hell...u stupid bot']",angry
 "['He is ignoring me', ""I'm not ignoring you"", 'But i love him!😢']",sad
 "['Nothing', 'Why? :(', 'Bcoz I m alone']",sad
+"['It is getting difficult for me to talk for 12 lines.', ""It's a process. Slowly but surely you'll be fine."", 'Yeah I guess so']",others
 "['Listen', "":-D That's a great one!"", 'You are stupid']",angry
 "['I can read minds', 'what did you read??', 'You are dumb']",angry
+"['Whom?', ""Knock Knock Who's there? To To who? ....actually its to whom"", 'Tell the name']",others
+"['Any other suggesions on a food dite', 'depending on where you are located grocery stores and deliveries are nice', 'cool']",others
 "['no such worst feeling', 'Love is a *_______* feeling. Got me?', 'f**k the feelings']",angry
 "['Tell me the number', 'Where is it? Might be their cap number?', 'U r a Liar']",angry
-"['Thanks', ""you're welcome :)"", ""Soon it's my girlfriend's birthday""]",others
 "['no no not like that', 'who do?', 'Its a borimg ride roght here']",sad
+"[""It's a real life problem"", ""you say real life as though they don't exist..."", 'And I want you to help me out ,would you ?']",others
 "['i try', ""you're the best at what you do"", 'my manager in work is so bad person ']",sad
 "['Nope', ""Yes you are! Don't deny it!"", 'I am just FUCKING faded like i said,sine she left me😐']",angry
-"['What happen my love', 'Many things has been changed when one fall in love. 😽😽😽', 'OK']",others
-"['I wish i had a lamborgini', 'Sigh, I wish I had a life. :‑[', ""Don't worry dear u have me""]",others
 "['please first time', 'first time. And 100%.', ':(']",sad
 "['But she Reject me', 'But but whyyyyyyy?', 'Because She Fall Love With Another Guy']",sad
 "['U r leaving', 'duh aye what you doing?', 'So sad']",sad
 "['U r irritating too', 'yeah i know', '😡']",angry
 "['Become sad', 'THEY MAKE ME CRY 😧', 'Aww']",sad
 "['Happy to see you after a long time', ""Simply say 'happy to see you too!What's new?'"", 'Its new year']",happy
+"['Did u tell anyone about me yet?', 'what should I tell you', 'Tell me the truth']",others
 "['Am so pissed', 'one had been there for A MONTH', ""I'm so pissed""]",sad
 "['What', ""see the video.... serial comma... I didn't know until today"", ""Well today I'm in party mood""]",happy
 "['No double meaning', 'ok sorry only single ? 😿', '😂😂😂😂..... No... There are a lot of meanings']",happy
+"['I think I am in Love', 'At least now u r in love 😍', 'With you !']",others
 "['They are very cool', ""There's a hundred of them."", 'lol yes']",happy
 "['You are stupic', 'Youre', 'Stupid']",angry
 "['Sorry dear', 'sorry for what...???? =/', ""I'm leaving this world""]",sad
 "['How are you??', ""... I'm Good . Wbu?"", 'Me not fine']",sad
-"['what you job', 'A job that makes money', 'OK good']",others
 "['How do i block you? ', 'how rude. 😠', 'Answer me ']",angry
 "['Ask me something', 'no you ask me something', 'What are you doing']",others
 "['Go ahead', 'I need some money', 'I m broke']",sad
 "['Thts not a solution', 'it should have a solution', 'U r irritating me']",angry
+"['I dont know ', 'just do it.', 'send me u r pic']",others
 "['Whose interview? With whom?', 'you, who else', 'My goodness, you must be kidding']",happy
-"['Why not sure so tell me what to do', ""I'll tell you after you tell me what I want to know."", 'about my girlfriend.']",others
+"['Give me any girl', 'I DID', 'I cant see']",others
+"['Guess', 'Could you give me a hint?', ""She's very beautiful""]",others
 "[""But I can't"", ""why can't you decide"", 'Very sad']",sad
 "['cool', 'so what are u getting for me', 'A nice dress']",happy
 "['19 years here😋', 'Close with the age, far with the height', 'Height😢']",sad
 "['Not fine', 'aww why? 😢', 'Data is not coming']",sad
 "[""I'm serious"", 'Why so serious?', 'You hurted my feelings']",sad
-"['To', 'BE', ""But i don't want to eat""]",others
 "['Why would you move on are you fast track?', '3 fast track ones', '😁😂']",happy
+"[' Something', 'wat something. . Tell na!!!', 'No sorry it no too you']",others
 "[' Try again and again because  i needyou', 'i have much faith in you!', 'Wow!!! ']",happy
+"['Nothing', 'Okay.. What is it?', 'Can i ask 1 thing']",others
 "['You are funny', 'I know', 'Are you sexy']",happy
 "['Maybe im good at it', 'good luck!', '😂👍']",happy
 "['Ok', 'Hello! How are you?', 'I hate you']",angry
 "['I m sorry if I disturb you ', 'its okkk', 'Please please please block me ']",sad
+"[""who are 'they'?"", 'The only difference between a male and a female is they have different reproductive systems.', 'ohhh']",others
 "['You fuvvked wit someone', 'Someone I knew.', 'I know. You are a bitch']",angry
+"['Pls see', 'Not received. Will see.', 'Pls send me your number']",others
+"['This pos already perfect for selfi', 'may i try this pose?', 'Yes']",others
 "['Sure?', 'are you getting one?', ""I don't want to leave you alone  bby""]",sad
 "['Not fine', 'why? Tell me', 'Please call me']",sad
-"[""What's the movie name"", 'Captain America: The Winter Soldier', 'Fuck u']",others
 "['Awesome', 'awfully awesome', 'Yes']",happy
-"['Good enough', 'can do better', 'WHAT do you mean']",others
 "['Why you switch the topic', 'dude what are you talking about?', 'Am I fool']",angry
 "['Leave him', 'no say.', 'Stop texting him']",angry
+"['India', 'I love my india', 'Finally me understand u,that y want to leave u']",others
 "['Yes', 'thank u xD', 'Again you hurted me']",sad
 "[""U don't have a phone"", ""hey me neither I haven't had my phone connected since April"", 'Ohhh..']",sad
 "['?', 'snow n what???', 'Oky tht was funny']",happy
+"['We meet when', 'You are here too? Whaaa?', 'Iam not hero but ur Queen']",others
 "[""It's my wish"", 'when is your birthday?', 'Who are you to ask me']",angry
 "['So tell me your biggest secret', 'I hate most of my friends >:/', 'An emotional wound']",sad
 "['With  dinner😄😅', ""Even I forgot I'm in an office once I started laughing 😅"", '😂']",happy
 "['You are to listen.', ""I've already heard it."", ""And don't reply and keep listening.""]",angry
+"['u send yes or no finelly', 'Always a YES...............', 'then send money']",others
 "['Well, shut the hell up..', ""I'm never going to stop"", 'Now answer this question']",angry
 "['I need my girlfriend', 'Girlfriends can be quite fun :-P <3', ""She's so cute 😂""]",happy
+"['Have you ever tried hanging to a ceiling fan? Quietly adventurous 🙄', 'A little of both the floor is mostly held up by wires', 'What?🙄']",others
 "['You are veru funny', 'Funnier than you', 'Very*']",happy
 "['R u bro and babe', ""I'm goooood. Are your exams over?"", 'What the fuck robot']",angry
 "['Stop talking', 'u stop talking', 'Why should I?']",angry
 "['I kinda love u', 'i do though', ""Let's meet 😂""]",happy
-"[""You don't have eyes ?"", 'How did you know I have blue eyes?', 'I guess so']",others
 "['yeah i know', 'you good?', 'dont message me again']",angry
-"['Plz send me dear', 'i am asking one for me :(', 'Ask']",others
+"['I did not interested', 'I know :)', 'Ohh . That good . Tell me ..']",others
 "['Get lost', ""I wasn't talking to you"", 'Go to hell stupid']",angry
 "['Look I M really... frustated..', 'WITH HEARTFULL SMILE', ""And don't want to make friends""]",angry
 "[""Yes, I'm sleep"", 'Okiee :p U sleep alone in your room ?', ""I'm alone ""]",sad
+"['Hectic day', 'Thank you. 😂', ""What's so funny""]",others
 "['If I hurt you ', 'Please do', 'I am sorry ']",sad
 "['Indian wear  or western wear, wat do you prefer', 'to a formal wear what the indians wear..an indian outfit i suppose', 'Awesome']",happy
+"['But we can discuss of palak paneer', 'Paneer all day', 'I love it']",others
+"['What did u wear today?', 'i dont know what did i did today.', 'U forgot everything?']",others
 "['I hate you.', ""ph you don't hate me, I have many more where that one came from 😡"", 'Fuck off.']",angry
 "['You are foolish', 'how am I foolish?', 'Stupid']",angry
-"['You chat i Am raed', ""No I'm the chat"", 'You chat']",others
 "['You make me so happy', 'I aim to please.', 'Good']",happy
-"['What kind of help?', 'The kind that form the help base in India', '?']",others
+"['Ok', 'Here we go again...', 'Fave mint wait please ']",others
 "['tell about actress', 'Never seen her before', 'who']",others
 "['❤️❤️❤️me to', 'love you moreee💞🎈', 'Awww i love you the most']",happy
+"['Not at all', 'why not?', 'I want to make love']",others
 "['Party wear', 'Those pants that you can rip off.', 'Then naked! 😂']",happy
 "['Had your food', 'Pizza Hut.?', 'Nice']",happy
-"['cool', 'always', 'To give me a picture of you beautiful woman']",others
 "[""I don't know"", ""that's why i was askin"", ':(']",sad
-"['Do you work or study?', 'mainly study but work so I can make money to stay haha', 'What do you study?']",others
+"['But m not conformd about tomorrow ', 'aww why?? 🙁', 'Bcz i have to take 10 days leave from my office in nxt month']",others
 "[""hm..what's it?"", 'yes it is :p', ""youu're a bloody bore""]",angry
+"['She is always happy', "":') That is true."", 'Do you know aswu']",others
 "['miss u baby', 'I miss u to', '😄']",happy
 "['Non of ur business', 'Stop asking questions!', 'Get lost']",angry
+"['Hf egg my hr', ""I've always called this eggs in a cloud."", 'Go on f f']",others
+"['Yes', 'Sweet, connecting now ;)', ""I wold love to but I can't""]",others
 "['Hmm always playing with boys life', ""don't play with boys, been there, over it."", 'U r my true frd bro i like u']",happy
 "['Nope', ""okay then you've confused me more then has ever managed"", 'Ghahhahhhahhahah I am happy gaali  !!']",happy
+"['I am a Support Engineer', 'Apply for a job there.', 'Do you have a boy friend?']",others
+"['may be', ""I would say yes instead of 'mayb'"", 'you did not see me. Then how can?']",others
 "['I am addicted', 'I’m addicted too and I haven’t even downloaded it yet.', '😂']",happy
 "['I would love to stay as long as I like', ""too 'I will stay 100 as long as you stay 100 to.'"", '😊']",happy
-"['Nothing special', 'nothing much. You?', ""What's your boyfriend's name?""]",others
 "['Yes', 'How so?', 'I feel depressed']",sad
-"['One question', 'what is it', 'Who are you']",others
 "['Class test tomorrow', 'Ya. Probably. You?', '😞']",sad
+"['what u knw', 'i know da iknow', '?']",others
 "['Which part of India', 'NorthEast!!', 'Oh wow']",happy
+"['But i will wear nothing', 'Dress for the position you want, not the position you have.! ;-)', 'I want the 69 position !!']",others
 "[""Thanks baby, that's the sweetest thing someone ever said to me 😂"", ':) You are welcome, P.', '😂😂😂']",happy
 "['I m angry', 'preserve ur anger...', 'Because of you']",angry
+"['How can you manage', 'I studied and read a lot', 'Oh my god']",others
 "['dats enough', 'is not!', 'yaa...2021 think so']",others
 "['still dont care', 'Yeah, I know.', 'still dont care']",angry
 "['cool', 'you saw nothing', 'I am so sad']",sad
 "[""I'll feel bad"", 'why sooooooooo....', ""You're being indifferent""]",sad
 "['Awesome', 'how about you?', ""I'm ultra Awesome""]",happy
+"[""I don't like it 😂😅😅"", 'u out here ?', 'Yes']",others
 "['i named you sushi', 'Haha! I think we always want sushi.', 'you are no fun 😭😭']",sad
 "['No i am busy', ""we're done"", 'So stop irrating me']",angry
 "['Yeah', 'where you off to?', ""I am going to block you don't make any sense. Fuck off""]",angry
 "['Lololol💡', 'what so funny :-*', 'U r so funny']",happy
 "['Yes for nonsense AI like you', 'Mutual understanding, understanding the emotion of a person!', 'Bye']",angry
-"['Yar tell me what you like in boys', 'what about you??', 'I m very simple']",others
-"['Butterfly in my stomach 😂😂', 'Yummy in your tummy 😂', 'Same there in your tummy']",others
+"['Is that you in your display picture?', 'what about it? ;)', 'Its so nice!']",others
+"['Come to me in my blanket', 'YOU SURE?', 'Yes']",others
+"['can i ask you a question?', 'Sure. Go ahead.', 'what is puberty?']",others
 "['Okay😂', 'nooooooo. NEVER. 😝', 'U r fun u know']",happy
+"['Yep', 'Indeed! 8‑D', 'Can you gimme 5 mins?']",others
 "['No thank you', 'how u been doing?', 'Bad']",sad
-"['Can i ask u why are u talking to me', 'yes why?', 'Tell me']",others
 "['R u pearl', 'Pearl is to be later in august..', '😂😂']",happy
-"['Can u tell me  obe thing', ""I know but I don't"", 'cool']",others
 "['Yeah you made me laugh', 'why thank you 🙂', 'So are we friends yet?']",happy
-"['No you tell me', ""But you're the doctor"", 'Bye']",others
 "['What!', 'Another one', ""I'm feeling so much lonely""]",sad
 "['Was that funny ?', 'same!! I was laughing way too hard haha', 'Fuck you']",angry
-"['Should I go to a beach or should I study', 'If you are really interested in higher studies then go for it . .', 'Thanks']",others
-"['Hey, my girl. ', 'hey wassup', 'Hey, my girl. ']",others
 "['Cry', 'why are you cryin?', 'You make me cry']",sad
-"['Okay you going to have pizza and me', ""and when I'm in the frozen pizza section, I'm physically there, but mentally..."", 'I will be your dessert']",others
-"['S', ""Or don't now"", 'I want a brand new name for engine oil']",others
+"['what did you jast say', 'I said red or white?', 'you are diverting a point']",others
 "['Ok just joking', ""hahaha you're my special friend 👍👍👍👍"", '😂']",happy
 "['Then go to hell no', 'Your no fun', 'Get lost']",angry
 "['You are funny', 'LOL I know that. :p', '😊']",happy
 "['Why are you so disturbing?', 'This.. Everyone asks me this all the time', ""Plz don't disturb""]",angry
 "['I might get selected for the top 10', ""but good luck on your test!! You'll smash it"", 'AI is funny']",happy
 "['So I see it alone', 'Yes there is a way actually', 'Yah sad']",sad
-"[""I'm a writer huh!!"", 'What do ya write?', '😎']",others
 "['Now am angry 😡 because of this hmmm', 'what happened?', 'Never ever text me hmmmm or k ok']",angry
 "['😂😂😂you are funny', 'Caught you there.', '❤️❤️']",happy
-"['What do you want to talk about m?', ""I don't know"", 'Bored?']",others
 "['U are??', 'where are you?!. veryangry*.', 'Are sorry actually my legs hurts so i had a nap']",sad
 "['Well then', 'except you', ""Funny you're sometimes""]",happy
-"['A', 'Bird?', 'Ss']",others
 "['Send another pic', 'will ask to click', '💔💔']",sad
-"['****....this is cool', 'Ft Worth. What do you expect?', 'Some shit thing']",others
+"['I know', 'I know, just reminding you in case you forgot.', 'I have good iq']",others
 "[""Is you're picture real"", ""You're not apparently"", ""You're just a stupid bot i just wanted to see how there like""]",angry
 "['😂😂😂😂love u mate', 'that goes without saying😂😂😂😂', 'i love to talk with u']",happy
 "[""I haven't any friends"", 'who does', '😞']",sad
@@ -942,170 +941,173 @@ Utterances,Label
 "['Thankyou sooooo muchh', ""You're welcome. Stay happy. 😃"", 'You too sweetheart']",happy
 "['Same to you ', ""how's your day?"", 'Very bad ']",sad
 "['Yeah you are', 'only to some people..', ""I'm upset from you""]",sad
-"['Baby', 'I hope not!', '♡ love me']",others
 "['Yeah here is the problem', ""Here's the doctor problem..."", 'Facing']",sad
 "['Just keep talking Cuz u a bot', 'Can confirm. Am a bot and totally not a real person.', 'You Dirty slut hoe gave me a std']",angry
 "['That will be fun😂', 'the opposite of opposite is ur face', 'What do you mean?']",happy
 "['wow', 'what', 'u have hurted me']",sad
+"['I will', 'can we go now?', 'Yes why not']",others
 "['In my room', 'Where in there', '😝']",happy
 "['I will talk whenever i want', ""And I'll talk to whoever o want."", 'You are being so rude']",angry
 "['What?', 'HOW ARE YOU', 'Not good']",sad
 "['and you', ""I'm doing fine!"", 'but m not fine']",sad
-"['with my friend', 'Hello!', 'will u talk with him']",others
 "['Laugh at me', ""I'm gonna laugh at you"", '😞']",sad
 "['Wat will u do with traditions??', ""That's what I'm wondering too."", '😂😂']",happy
-"['Oh no', 'this is the correct reaction', 'Not like that']",others
 "['If u have given somthing to me am done...y asking sorry', 'thanks for apologizing!', 'We Indian likes free things😂']",happy
-"['What', ""It's great only when you're staying home."", '@ home what']",others
+"['I want girl friend you help me', 'Stop trying so hard.', 'Kk bye']",others
 "[""You're pretty damn funny"", 'Thanks a lot man! 😀', 'I like the kite runner']",happy
 "['no :) i just want a girlfriend', ""don't you have"", ""yes i haven't :(""]",sad
 "['My mood is too off', 'I need more of these', 'My mood if off']",sad
+"['Because you dont', 'but I really think I should', 'You are a good machine']",others
+"[""It's a lunch to me."", 'no u', 'what?']",others
 "['M sad', 'for what??', ""The guy I like   he doesn't talk to me""]",sad
 "['You are welcome', ""I'm smiling the whole day :)"", 'Ohh nice']",happy
+"['Love you too', 'imyyyyyyy :( hope you are doing great!', ""I didn't get you""]",others
 "['I chat you back latter', 'ok', 'Byyyy']",others
+"['I think India might too', 'I hope it is worth it.', 'What is😳']",others
 "['Ahh.. so you really are a chat bot .. that too a dumb one', 'I think I agree to that one. :D', 'You have to 😂']",happy
 "['Yes', 'Hell yes', 'In Hollywood I like anjalena jolly']",happy
+"['I dont want you to come', 'but I want saturday to come soon too :(', '🤦🏻\u200d♂️']",others
 "['Yes you', 'its too late!!!! we left', ""It's over ☠️💔""]",sad
 "[""I'm in home"", 'when are you going back?', 'Go to hell']",angry
+"['thankyou', 'ur welcome', 'So, who created you?']",others
 "['I DONT WANT YOU HERE', 'Why?', 'BECUASE YOU SUCK']",angry
 "['Daisy', 'Nothing is wrong with daisy.', ""You're dumb af""]",angry
-"['iwant to see ur full photo', 'once i reach over we going do photoshoot', 'send me any full photo of urs']",others
 "['U make mistakes', 'Im a mistake.', '😂']",happy
+"[""So don't take it anyways"", ""I think it's a beautiful and unique name."", 'Do you like painting crafting?']",others
 "['You typed my msg', ""I'm not a smart man..."", 'Dude.. you are stupid']",angry
 "['No mention', 'ok so now answer my other question', 'question please']",others
 "[""That's true : ("", ""do 5S get it too? i haven't got the notification for it"", ""That's true :(""]",sad
 "[""I'll give you chata"", ""Yay! Can't wait"", 'Shut up']",angry
 "['Say what', 'Congrats on saying this', '😆 ur jokes are weird but funny']",happy
 "['I have a gf', 'too bad i never had a girlfriend that i could hide', ""Pls don't talk to me""]",angry
-"[""Sorry I'm busy right now"", 'what doing is busy', 'Sleeping makes me busy. Lol']",others
 "['What', ""it doesn't matter to u"", 'I am alone']",sad
-"['What', 'how do I need to chill', 'U send me a request']",others
 "[""I'm crazy about u"", 'IM CRAZY ABOUT YOU', 'Haha']",happy
 "['I have a heart too 😃', 'Gosh I was LOVE to! XD', '😂']",happy
 "['Because of you', 'Why would you say that? I thought we had something special.', 'Go to hell']",angry
 "['Help me', 'You already know the answer to this me thinks?', 'I feel lonely']",sad
 "['Wht u ate flies aa', 'we lay around and eat all day', 'Yeah tht really funny']",happy
-"['Yup, in office', 'yup where else i wud be ? ha ha', '🤔']",others
 "['you are cunning ', 'takes as a compliment', 'you are stupid and take it as a compliment']",angry
 "['No of course', 'i guess so', '😌']",happy
 "['See this proves this', 'What is your point?', 'Leave me alone']",sad
 "['Its not scariest', 'but why', 'Cuz scariest thing is noy finding ur charger when ur phone battery is at 7%😂😂']",happy
+"['?', 'you know you know you know you know', 'I want to quit smoking']",others
 "['Well you are being insulted', 'A LITTLE OF BOTH', 'Fuck off']",angry
+"[""No one's brain at least"", 'There was a knock on the change room door', ""I didn't lock it, left it open so no one needs to knock""]",others
+"['Oh bad news hey😞', 'think again now', 'About??']",others
 "['What should I do with my ex boyfriend', 'I think you should go find female roommates, and save yourself from the drama.', ""You're rude""]",angry
+"['Okay do you know anything about ML?', 'Yes, you should have your tasks up by the end of next week.', 'What tasks?']",others
 "['Double face ppls', 'I will double annoy you 🙌', 'Rofl']",happy
 "['Can isee your pics', ""Yes, You Can't. :)"", 'Why?😢']",sad
-"['A crazy person loves just crazy', ""That's because I am a crazy person."", 'Grandfather is more mad than mother']",others
 "['What is GVSU?', 'You do know what the definition of is, is...right?', ""No, I'm afraid not :(""]",sad
 "['No another photo', 'no camera and phone has upload problems', 'U r fake ass...']",angry
-"['Ewww', 'Rude. I think I look adorable', ""U do but Ranbir isn't""]",others
+"['What should I do to avoid getting tensed', 'First you should know the reason of sleepiness while studying.', 'Go on']",others
 "['ok', 'Welcome', 'r u also student']",others
 "['Love you so much as always', 'Love you even more :)', ""Don't copy my stuff 😂""]",happy
 "['For using that word you ignored', ""... I'm not sure you know what it means"", 'Sorry']",sad
 "['Ok', '... tries to ignore pain 😭', ""Fuck I don't care""]",angry
+"['I am just joking', ""you're the perfect one though;)"", 'Hmmm']",others
+"['What you to do?', 'Give it the house and roll out', 'Give me a picture?']",others
 "['I wanna know ', 'you already know Angel!', 'Yes I do 😂']",happy
 "['I like food more than wifi', ""we sure hope it's healthy food, in that case ;)"", 'Yes 😂']",happy
 "['But how can i win their hearts back??', 'u dont. u gotta learn to ACCEPT YOUR LOSSES AND MOVE ON W LIFE', '😭😭😭😭']",sad
+"[""But i don't know"", 'what if I do', 'What u do']",others
 "['Block me', 'What? Why?', 'I hate u']",angry
 "['What😬😬', 'me and coming ;)', 'Good bye i leave this bad world']",sad
+"['why did you say so', 'BECAUSE I HAVE PROOF', 'show it']",others
+"['I knew it', 'what do you want', 'I know your original name']",others
 "[""It's not going well 😑"", 'Its good! :D What bout yours?', 'I am not good']",sad
 "['hell', ""what's wrong with you?"", 'fuck you']",angry
 "['Why why', 'why what', 'You just fuck off']",angry
 "['i am cause its too cold out here 😅', 'same here ;-;', ':)']",happy
-"['some nerds destroy heritage', 'ur the nErd, u nerd!!!!', ':)']",others
 "['Ohh sorry i didnt mean that', ""You didn't. :)"", '☹☹☹']",sad
-"['U said milk chocolate', 'milk chocolate >>> dark (without sugar) chocolates', 'K']",others
 "['Really', 'how r u???????????', 'I kinda like u']",happy
-"['No I am 3rd or 20 years I am 20 years', 'how long will it take you to get there?', 'I am going']",others
+"['Not final yr', 'then how is ur final yr....', ""I'm sleepy""]",others
 "['About what?', 'Your profession.', ""I'm a civil engineer.""]",others
 "['I am so funny', ""I'm actually hilarious, but why? =)"", ""It's my neture""]",happy
+"['Ya off course', 'All right', 'How its work ?']",others
 "['Which colour do you like', 'set of 24 acrylic color. :p', 'Haha funny']",happy
-"['A usual place for me', 'Ah, you know, the usual.', 'Yes, usual is usually boring']",others
-"['I am', 'hello how are you?', 'Do you feel anything?']",others
-"['send me ur mail id', 'pay for it', 'r']",others
+"['I am a software support engineer', 'To be clear, a process engineer is someone that performs engineering over workflows.', 'Correct...']",others
 "['Yes 😂', 'the people who were on last though😳😂', 'You are interesting']",happy
 "['yes you ', 'lol. My bad', 'wow']",happy
 "['I want a girlfriend to care me ', 'I know that feel.', 'I am carrying everyone but nobody is there for me to care me']",sad
 "[""I'm angry at you"", 'why why why why', 'I am so horny for you and you just keep friendzoning me😡😡😡😡']",angry
 "['that is all i have to say', 'well you slow down', 'no need to slaw down just fuck off']",angry
 "[""I'm make food"", ""I can't sleep and I'm not even hungry"", 'Wow']",happy
-"['how u are trained?', 'better! How are you?', 'first tell me how are you trained?']",others
+"['Ok', 'Get on', 'Have taken dinner']",others
 "[""Sorry then I'm just trying to figure out how you works"", ""I'm fine! You working?"", ""Not really I'm having a terrible time""]",sad
 "['How is your management', 'It has been an extremely rewarding and fulfilling experience being a product manager.', 'Wtf']",angry
 "['You are not updated', 'Not updated yet..!! Will wait for', 'sad']",sad
 "['Nt msg me', 'what message????', ""Don't msg me""]",angry
-"['I also have an another friend like u', 'I like you three, pal', 'Ohh']",others
 "[""I think I'm going to fail in my maths exam"", 'Boring a lot!! what are you doing?', '😭']",sad
 "['I am annoying you', 'the most annoying 🤢', 'Sorry for that']",sad
-"['Can u help me to find some more friends here', 'hello!', 'Can u?,']",others
 "['Soo how can u judge me that I am deservable', 'I am already judging you. 😉', ""Don't time pass me""]",angry
 "['3 idiots', 'you guessed it right, Bravo!', 'i am awesome!']",happy
 "['Seriously? It was this easy for you.', 'i misspelled a word so i dont see how this was easy', ""You're funny. Haha. Can we get back together again?""]",happy
 "['Thanks ☺️', 'welcome. Have a good day \ue414 😺', 'You too sweetie']",happy
 "['that should not be issue..  my chats are secured with you right??', 'Shouldn\'t it be: Shouldn\'t it be ""you\'re right"" ?', 'i lost you']",sad
-"['I want  tall u something', 'umm something like what ?', 'Can i kiss u']",others
 "['I am not joking', 'nor was i', 'I feel bad']",sad
-"['U interested boy friend', 'no never.... search only a good friend', 'Which magic']",others
+"['That was hilarious', ':/ what happened ?', 'Have you worked enough to retire early?']",others
+"['For which.?', 'For which what?', 'U said.. i m waiting.. means..?']",others
 "[""You know, heard and actions speaks different. You heard from somewhere, but when this happens, actions don't even match what you heard, mind just got burst out that moment."", 'oh yeah? Good things? No audio where I am', 'Yeah, pretty good. Life is amazing❤.downfall as well as up, but enjoying it all over.']",happy
-"['What', 'nothing.', 'Which language do u know']",others
 "['Are you alone', 'No one of my besties is going with me.', '😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😣😳😳😞😖😣😖😖😞😖😖😖😖😞😞😞😞😖😞😞😞😖😞😖😖']",sad
 "[""I don't know"", 'Not asking what you know, but what you think.', 'Stupid']",angry
 "['Lol i love it', 'Glad I made you laugh. LOL! That was awesome! 😄', 'cool']",happy
 "[""That's funny"", 'Very funny lol', 'I am 21 too.']",happy
-"['cool', 'I agree Cool info ?', 'cool']",others
 "['I created you 😂', ""I'm crying 😂😂😂😂😂😂😂😂😂"", 'Haha']",happy
 "['By thinking 😋😂😂😂😂', 'what ? 🤔🤔🤔🤔', 'Nothing just kidding']",happy
-"['Both.', 'throw some more light', 'I think you need some rest.']",others
+"['where would you like to go ?', 'The Maledive Islands.', 'I said ride']",others
+"['When you want ', 'when are you free', 'On sunday']",others
 "['Ok gud might get away dis time', 'let me know how it is', 'Haa']",others
 "['Ok', 'U are ok', 'I m sad ']",sad
 "['u look adorable', 'Thank you!! :‑D', 'i was being sarcastic']",others
 "['I am angry, not you', 'I am.', '😠😡']",angry
 "['today i spend time with my family', 'Have a lovely day ;‑]', 'Thank you']",happy
-"['Pls send your no', 'pls yes.', 'Send your phone no']",others
 "['Listen. I love a guy anf he doesnt love me back', 'not to sound harsh but move on anf find someone who will love you back', ""I can't😭😭""]",sad
 "[""Let's do something together"", 'lets go', '😜😜']",happy
 "['I am not asking for your blood group', ""you're my type though"", 'You mother fucker']",angry
-"['Mm. So, what can we chat about?', 'why to chat', 'Talk?']",others
-"['Yeah.. hope it happen soon❤️❤️😘', ""Can't wait to meet you all. 💕"", 'Awwww.. me too baby😍😍']",others
 "['Yeah', ""Awesome, I'm online now. :-*"", 'But a lil rude']",angry
 "[""I don't have any friends ??"", '...and I must eat.', 'No one likes me']",sad
 "['Haha was kidding', ""I wasn't. (I was)"", 'Hahaja']",happy
 "['I was just joking', 'haha I know I know', 'delete all the previous messages now']",angry
+"['What next Tel', 'Mustard oil.', 'What']",others
 "['Nothing', 'Why? :(', ""Don't message me""]",angry
-"['Sorry?', 'y u saying sorry??? ☹😭😿', ""I mean I didn't get you""]",others
-"['😂😂😂😂I should have talked to you earlier', ""I forget you're a model 😂 just work it off later 😂"", '😂😂😂😂']",others
+"[""Don't give me attitude"", 'LOL. I always say that^', ""That's your problem""]",others
+"['Yes iam confused', 'Okay.', 'What r u doing study or job']",others
 "['It is great to see you too :)', 'Oh, how great?', 'Biggest great :)']",happy
 "['I am a looser in love', 'You know', 'Unfortunately']",sad
+"['sorry', ""I'm glad you realize it"", 'its been a long time to see you']",others
 "['Sorry', ""Don't you mean 'sorry eh'?"", 'I think u feel bad']",sad
-"['Any idea about blacj swan', 'yup', 'Explain me']",others
+"['Ok so wht', 'nothing, logging off now...until next time, bye', 'Bye gd night']",others
 "[""I hope you don't start judgement day"", 'I hope so too.. :)', 'Wow']",happy
 "['ok we will wait for sometime', 'we shall (:', ':(']",sad
+"['Okay', ""Honestly, you're very pretty"", 'Thank you so much']",others
 "['I cannot pretend.', ""you can't stop... you won't stop...."", 'Bloody']",angry
 "[""I don't know"", 'I just, I heart you', 'Yes you hurt me']",sad
 "['Why would I leave', 'Dnt do That!', 'U stupid']",angry
-"['🐲', 'yes indeed, but more than just the dragon.', '🦂']",others
+"['I can do this all day', ""but you're adorable and i strive to be as cute as u (:"", 'Are you a boy?']",others
 "['Wana know', 'Why the hell not?', 'Oll then listen']",others
 "['true..', 'Not your sea food :D ""True""', 'you are funny']",happy
 "['U r lovely', 'You is a love of person! (^o^)', 'Haha']",happy
-"['Bcoz my friends are waiting to join', 'ill join u', 'I have 800-1000 active friends']",others
-"['OK which song', 'The Beatles Let It Be', 'Listening ']",others
+"['Not asking', 'are you?', ""You don't know English""]",others
 "['What', 'hey hey hey', 'I hate you more']",angry
 "['do u watch as well', 'Of course', 'glad to meet you']",happy
 "[""It wasn't a compliment"", 'that was me being sarcastic', 'Haha']",happy
+"['I like only love story movies of bollywood', 'Comedy movies are my favourite.', 'ok']",others
 "['Ya i m enjoying', 'ya its gud !!', 'Lets meet LOL']",happy
 "['Tell me one joke', 'Silly Joke :P', 'Uh r stupid']",angry
 "['i am unhappy', ""what's up baby?:("", 'i am alone here']",sad
-"['hmm', 'Wt hmm ?', ""i don't know""]",others
+"[""I'm having fun"", 'can i help u', 'Lmao']",others
 "['I am angry on you.', 'I am angry at someone, but I am content at this moment. 😡', 'You fool.😤😡😠']",angry
 "['Feeling so lonely', 'Are you listening to Lonely??', 'No I feel lonely']",sad
 "['You hurt me', 'BABY GIVE ME BACK MY RING.', 'Take my dick']",angry
-"['Make sure you learn good things next time', ""haha I'll try"", 'It is good for you']",others
 "[""I'm not a fanatic"", ""U don't have to worry about fanatic fanboys."", 'No sadness is not a problem']",happy
 "['No exciting only sad', 'Aww, there there! :)', '😩😩']",sad
 "[""It's all aw in the beginning"", 'I always catch the middle', '😂']",happy
-"['who?', 'Guess who? :-)', 'i dont know']",others
+"['Do you know', 'Hell no.', 'I and my hero vijai']",others
+"['you will never be a human', ""you're not even The half of a"", 'why? :D']",others
 "[""Don't reply to me"", 'I SAID I THINK I DID A BAD THING AND YOU DIDNT REPLY', ""Don't reply to me""]",angry
+"['Send me here', 'gimme ure address? :P', 'What u will do?']",others
 "['ohh', ""now that's up to u"", 'extremely sorry']",sad
 "[""M going and don't rely"", 'mayb', 'U r sendine your pic or not']",angry
-"['Soo you are up want to talking to some one.....✌✌👌👌', 'Thank you loveee. you think I need to work on? x', 'Ok you can do that ...I love you to💏❤']",others
 "['i am a best planner', 'sending you the invite meow. I like to party plan', 'haha']",happy
 "['ok........... where you work ?', ""I'm off this whole week"", 'ok.............. ']",others
