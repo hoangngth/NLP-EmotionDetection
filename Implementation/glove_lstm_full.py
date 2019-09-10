@@ -3,7 +3,7 @@ import os
 import numpy as np
 import pandas
 import random
-import tensorflow as tf
+from keras.models import load_model
 from matplotlib import pyplot
 from collections import Counter
 from keras.preprocessing.text import Tokenizer
@@ -180,3 +180,13 @@ print('Model saved to '+os.getcwd()+'/Model/GloVe.50d-LSTM_model.h5')
 
 print("Total training time: %s seconds" % (time.time() - start_time))
 
+# Load model for prediction
+model = load_model(os.getcwd()+'/Model/GloVe.50d-LSTM_model.h5')
+
+my_text = 'This is not good, but i will handle it'
+seq = tokenizer.texts_to_sequences([my_text])
+print('raw seq:',seq)
+seq = pad_sequences(seq, maxlen= max_len, padding='post')
+print('padded seq:',seq)
+prediction_softmax = model.predict(seq)
+print('Softmax: ', prediction_softmax)

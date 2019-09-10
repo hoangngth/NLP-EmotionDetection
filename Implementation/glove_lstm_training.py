@@ -17,10 +17,9 @@ start_time = time.time()
 print('Training GloVe-LSTM Model...')
 
 utterances = []
-texts = []
 labels = []
 
-# DATA PRE-PROCESSING
+# LOAD DATA
 emotion_dataset_dir = os.getcwd()+'/Dataset/4_emo_reduced.csv'
 df = pd.read_csv(emotion_dataset_dir)
 
@@ -29,14 +28,11 @@ labels = df['Label']
 
 labels = np.asarray(labels)
 
-for row in utterances:
-    texts.append(' '.join(row))
-
 # Word Tokenizing
 tokenizer = Tokenizer()
-tokenizer.fit_on_texts(texts) # Generate tokens by counting frequency
+tokenizer.fit_on_texts(utterances) # Generate tokens by counting frequency
 vocab_size = len(tokenizer.word_index)+1
-sequences = tokenizer.texts_to_sequences(texts) # Turn text into sequence of numbers
+sequences = tokenizer.texts_to_sequences(utterances) # Turn text into sequence of numbers
 
 max_len = 50 # Make all sequences 50 words long
 data = pad_sequences(sequences, maxlen=max_len, padding='post')
@@ -120,7 +116,7 @@ model.compile(optimizer='adam',
 model.summary()
 history = model.fit(x_train, y_train,
                     epochs=5,
-                    batch_size=16,
+                    batch_size=32,
                     validation_data=(x_val, y_val))
 
 scores = model.evaluate(x_test, y_test, verbose=0)
