@@ -25,3 +25,16 @@ ggplot(train.2, aes(x = Utterances, fill = Label)) +
   ylab("Label") +
   labs(fill = "Label") +
   ggtitle("Label distribution")
+
+# 30k label data
+# Load raw data
+train.2 <- read.csv("starterkitdata/train.", header = TRUE)
+train.2$Utterances <- as.character(train.2$Utterances)
+train.2$Label <- as.factor(train.2$Label)
+str(train.2)
+ggplot(train.2, aes(x = Utterances, fill = Label)) +
+  geom_bar(width = 1) +
+  xlab("Utterance") +
+  ylab("Label") +
+  labs(fill = "Label") +
+  ggtitle("Label distribution")

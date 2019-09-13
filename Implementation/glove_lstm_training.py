@@ -20,7 +20,7 @@ utterances = []
 labels = []
 
 # LOAD DATA
-emotion_dataset_dir = os.getcwd()+'/Dataset/4_emo_reduced.csv'
+emotion_dataset_dir = os.getcwd()+'/Dataset/starterkitdata/train.csv'
 df = pd.read_csv(emotion_dataset_dir)
 
 utterances = df['Utterances']
@@ -79,7 +79,7 @@ y_val = to_categorical(y_val)
 y_test = to_categorical(y_test)
     
 # Load word embedding, process WE file
-emotional_glove_dir = os.getcwd() + '/Word_Embedding/glove.twitter.27B.50d.txt'
+emotional_glove_dir = os.getcwd() + '/Word_Embedding/em-glove.6B.300d-20epoch.txt'
 embedding_index = dict()
 print('Converting into dictionary of vectorized words...')
 f = open(emotional_glove_dir, encoding='utf-8', errors='ignore')
@@ -92,7 +92,7 @@ f.close()
 print('Done.')
 
 # Create a weight matrix for words in training
-embedding_dim = 50
+embedding_dim = 300
 embedding_matrix = np.zeros((vocab_size, embedding_dim))
 for word, i in tokenizer.word_index.items():
     embedding_vector = embedding_index.get(word)
@@ -104,7 +104,7 @@ for word, i in tokenizer.word_index.items():
 # Define Model
 model = Sequential()
 model.add(Embedding(vocab_size, embedding_dim, input_length = max_len, weights = [embedding_matrix], trainable = False))
-model.add(LSTM(16, return_sequences = True))
+model.add(LSTM(32, return_sequences = True))
 model.add(Dropout(0.5))
 model.add(Flatten())
 model.add(Dense(4))
@@ -115,14 +115,14 @@ model.compile(optimizer='adam',
               metrics=['accuracy'])
 model.summary()
 history = model.fit(x_train, y_train,
-                    epochs=5,
+                    epochs=10,
                     batch_size=32,
                     validation_data=(x_val, y_val))
 
 scores = model.evaluate(x_test, y_test, verbose=0)
 print('Test accuracy:', scores[1])
 
-pyplot.plot(history.history['acc'],label='Training Accuracy')
+pyplot.plot(history.history['training_acc'],label='Training Accuracy')
 pyplot.plot(history.history['val_acc'],label='Validation Accuracy')
 pyplot.legend()
 pyplot.show()
@@ -133,7 +133,7 @@ pyplot.legend()
 pyplot.show()
 
 # Save the trained model
-model.save(os.getcwd()+'/Model/GloVe.50d-LSTM_model.h5')
-print('Model saved to '+os.getcwd()+'/Model/GloVe.50d-LSTM_model.h5')
+model.save(os.getcwd()+'/Model/Emotional.GloVe.300d-LSTM_model.h5')
+print('Model saved to '+os.getcwd()+'/Model/Emotional.GloVe.300d-LSTM_model.h5')
 
 print("Total training time: %s seconds" % (time.time() - start_time))
