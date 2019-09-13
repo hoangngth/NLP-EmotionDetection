@@ -116,13 +116,13 @@ model.compile(optimizer='adam',
 model.summary()
 history = model.fit(x_train, y_train,
                     epochs=10,
-                    batch_size=32,
+                    batch_size=128,
                     validation_data=(x_val, y_val))
 
 scores = model.evaluate(x_test, y_test, verbose=0)
 print('Test accuracy:', scores[1])
 
-pyplot.plot(history.history['training_acc'],label='Training Accuracy')
+pyplot.plot(history.history['acc'],label='Training Accuracy')
 pyplot.plot(history.history['val_acc'],label='Validation Accuracy')
 pyplot.legend()
 pyplot.show()
