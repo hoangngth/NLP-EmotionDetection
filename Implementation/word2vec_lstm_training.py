@@ -1,5 +1,6 @@
 import time
 import csv
+import pickle
 import os
 import numpy as np
 import pandas as pd
@@ -31,6 +32,11 @@ labels = np.asarray(labels)
 # Word Tokenizing
 tokenizer = Tokenizer()
 tokenizer.fit_on_texts(utterances) # Generate tokens by counting frequency
+
+# Save tokenizer
+with open('Tokenizer/tokenizer.30k.pickle', 'wb') as handle:
+    pickle.dump(tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
 vocab_size = len(tokenizer.word_index)+1
 sequences = tokenizer.texts_to_sequences(utterances) # Turn text into sequence of numbers
 
