@@ -79,10 +79,10 @@ y_val = to_categorical(y_val)
 y_test = to_categorical(y_test)
     
 # Load word embedding, process WE file
-emotional_glove_dir = os.getcwd() + '/Word_Embedding/em-glove.6B.300d-20epoch.txt'
+we_glove_dir = os.getcwd() + '/Word_Embedding/em-glove.6B.300d-20epoch.txt'
 embedding_index = dict()
 print('Converting into dictionary of vectorized words...')
-f = open(emotional_glove_dir, encoding='utf-8', errors='ignore')
+f = open(we_glove_dir, encoding='utf-8', errors='ignore')
 for line in f:
     values = line.split()
     word = values[0]
