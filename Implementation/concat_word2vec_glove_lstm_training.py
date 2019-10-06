@@ -106,7 +106,7 @@ def train_glove_lstm(we_dir, emb_dim):
         embedding_vector = embedding_index.get(word)
         if embedding_vector is not None:
             embedding_matrix[i] = embedding_vector
-        else:
+        else: 
             embedding_matrix[i] = np.zeros(emb_dim, )
             
     # Define Model
