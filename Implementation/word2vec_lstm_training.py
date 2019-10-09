@@ -12,6 +12,7 @@ from keras.models import Sequential
 from keras.layers import Embedding, LSTM, Dense, Flatten, Dropout, TimeDistributed, Activation
 from keras import optimizers
 from keras.utils.np_utils import to_categorical   
+from sklearn.metrics import confusion_matrix, classification_report
 
 # Start counting time
 start_time = time.time()
@@ -138,8 +139,17 @@ pyplot.plot(history.history['val_loss'],label='Validation Loss')
 pyplot.legend()
 pyplot.show()
 
+# Calculate Precision, Recall, F1
+#--- If trained then load model, else comment it out
+#from keras.models import load_model
+#final_model = load_model(os.getcwd()+'/Model/Final_model.h5')
+#---------------------------------------------------
+y_pred = model.predict(x_test, batch_size=64, verbose=1)
+print(confusion_matrix(y_test.argmax(axis=1), y_pred.argmax(axis=1)))
+print(classification_report(y_test.argmax(axis=1), y_pred.argmax(axis=1), target_names= ['Happy', 'Sad', 'Angry', 'Others']))
+
 # Save the trained model
 model.save(os.getcwd()+'/Model/Emotional.Word2Vec.300d-LSTM_model.h5')
-print('Model saved to '+os.getcwd()+'/Model/Emotional.Word2Vec.300d-LSTM_model.h5')
+#print('Model saved to '+os.getcwd()+'/Model/Emotional.Word2Vec.300d-LSTM_model.h5')
 
 print("Total training time: %s seconds" % (time.time() - start_time))

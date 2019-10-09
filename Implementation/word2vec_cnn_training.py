@@ -9,7 +9,7 @@ from collections import Counter
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import Sequential
-from keras.layers import Embedding, Conv1D, GlobalMaxPooling1D, Dense, Flatten, Activation
+from keras.layers import Embedding, Conv1D, MaxPooling1D, GlobalMaxPooling1D, Dense, Flatten, Dropout, Activation
 from keras import optimizers
 from keras.utils.np_utils import to_categorical   
 from sklearn.metrics import confusion_matrix, classification_report
@@ -86,7 +86,7 @@ y_val = to_categorical(y_val)
 y_test = to_categorical(y_test)
     
 # Load word embedding, process WE file
-we_glove_dir = os.getcwd() + '/Word_Embedding/em-w2v-out-wiki-20epoch.txt'
+we_glove_dir = os.getcwd() + '/Word_Embedding/GoogleNews-vectors-negative300.txt'
 embedding_index = dict()
 print('Converting into dictionary of vectorized words...')
 f = open(we_glove_dir, encoding='utf-8', errors='ignore')
@@ -114,13 +114,14 @@ model.add(Embedding(vocab_size, embedding_dim, input_length = max_len, weights =
 model.add(Conv1D(filters=128, kernel_size=2, padding='valid', activation='relu', strides=1))
 model.add(GlobalMaxPooling1D())
 model.add(Dense(128, activation='relu'))
+#model.add(Dropout(0.5))
 model.add(Dense(4, activation='sigmoid'))
 model.compile(optimizer='adam',
               loss='binary_crossentropy',
               metrics=['accuracy'])
 model.summary()
 history = model.fit(x_train, y_train,
-                    epochs=10,
+                    epochs=5,
                     batch_size=128,
                     validation_data=(x_val, y_val))
 
@@ -140,14 +141,14 @@ pyplot.show()
 # Calculate Precision, Recall, F1
 #--- If trained then load model, else comment it out
 #from keras.models import load_model
-#final_model = load_model(os.getcwd()+'/Model/Final_model.h5')
+#model = load_model(os.getcwd()+'/Model/Final_model.h5')
 #---------------------------------------------------
 y_pred = model.predict(x_test, batch_size=64, verbose=1)
 print(confusion_matrix(y_test.argmax(axis=1), y_pred.argmax(axis=1)))
 print(classification_report(y_test.argmax(axis=1), y_pred.argmax(axis=1), target_names= ['Happy', 'Sad', 'Angry', 'Others']))
 
 # Save the trained model
-model.save(os.getcwd()+'/Model/Emotional.Word2Vec.300d-CNN_model.h5')
-print('Model saved to '+os.getcwd()+'/Model/Emotional.Word2Vec.300d-CNN_model.h5')
+model.save(os.getcwd()+'/Model/Word2Vec.300d-CNN_model.h5')
+#print('Model saved to '+os.getcwd()+'/Model/Emotional.Word2Vec.300d-CNN_model.h5')
 
 print("Total training time: %s seconds" % (time.time() - start_time))

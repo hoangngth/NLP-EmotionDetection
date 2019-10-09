@@ -151,9 +151,9 @@ def train_w2v_lstm(we_dir, emb_dim):
 #----------------------------------------------------------
 
 # We need to Concatenate 2 models together
-we_glove_dir = os.getcwd() + '/Word_Embedding/em-glove.6B.300d-20epoch.txt'
-model_1 = train_glove_lstm(we_glove_dir, 300)
-we_w2v_dir = os.getcwd() + '/Word_Embedding/em-glove.6B.300d-20epoch.txt'
+we_glove_dir = os.getcwd() + '/Word_Embedding/glove.twitter.27B.50d.txt'
+model_1 = train_glove_lstm(we_glove_dir, 50)
+we_w2v_dir = os.getcwd() + '/Word_Embedding/GoogleNews-vectors-negative300.txt'
 model_2 = train_w2v_lstm(we_w2v_dir, 300)
 
 # Create placeholder model for concatenation

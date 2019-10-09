@@ -9,7 +9,7 @@ from collections import Counter
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import Sequential
-from keras.layers import Embedding, Conv1D, GlobalMaxPooling1D, Dense, Flatten, Activation
+from keras.layers import Embedding, Conv1D, GlobalMaxPooling1D, Dense, Flatten, Dropout, Activation
 from keras import optimizers
 from keras.utils.np_utils import to_categorical   
 from sklearn.metrics import confusion_matrix, classification_report
@@ -86,7 +86,7 @@ y_val = to_categorical(y_val)
 y_test = to_categorical(y_test)
     
 # Load word embedding, process WE file
-we_glove_dir = os.getcwd() + '/Word_Embedding/em-glove.6B.300d-20epoch.txt'
+we_glove_dir = os.getcwd() + '/Word_Embedding/glove.twitter.27B.50d.txt'
 embedding_index = dict()
 print('Converting into dictionary of vectorized words...')
 f = open(we_glove_dir, encoding='utf-8', errors='ignore')
@@ -99,7 +99,7 @@ f.close()
 print('Done.')
 
 # Create a weight matrix for words in training
-embedding_dim = 300
+embedding_dim = 50
 embedding_matrix = np.zeros((vocab_size, embedding_dim))
 for word, i in tokenizer.word_index.items():
     embedding_vector = embedding_index.get(word)
@@ -120,7 +120,7 @@ model.compile(optimizer='adam',
               metrics=['accuracy'])
 model.summary()
 history = model.fit(x_train, y_train,
-                    epochs=10,
+                    epochs=5,
                     batch_size=128,
                     validation_data=(x_val, y_val))
 
@@ -147,7 +147,7 @@ print(confusion_matrix(y_test.argmax(axis=1), y_pred.argmax(axis=1)))
 print(classification_report(y_test.argmax(axis=1), y_pred.argmax(axis=1), target_names= ['Happy', 'Sad', 'Angry', 'Others']))
 
 # Save the trained model
-model.save(os.getcwd()+'/Model/Emotional.GloVe.300d-CNN_model.h5')
-print('Model saved to '+os.getcwd()+'/Model/Emotional.GloVe.300d-CNN_model.h5')
+model.save(os.getcwd()+'/Model/GloVe.50d-CNN_model.h5')
+#print('Model saved to '+os.getcwd()+'/Model/Emotional.GloVe.300d-CNN_model.h5')
 
 print("Total training time: %s seconds" % (time.time() - start_time))
