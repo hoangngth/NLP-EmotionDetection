@@ -111,7 +111,7 @@ def train_glove_lstm(we_dir, emb_dim):
             
     # Define Model
     model = Sequential()
-    model.add(Embedding(vocab_size, emb_dim, input_length = max_len, weights = [embedding_matrix], trainable = False))
+    model.add(Embedding(vocab_size, emb_dim, input_length = 50, weights = [embedding_matrix], trainable = False))
     model.add(LSTM(32, return_sequences = True))
 
     return model
