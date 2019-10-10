@@ -10,7 +10,7 @@ from collections import Counter
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import Sequential, Model
-from keras.layers import Embedding, LSTM, Dense, Flatten, Dropout, Activation, Concatenate, Input, Add
+from keras.layers import Embedding, LSTM, Dense, Flatten, Dropout, Activation, Concatenate, Input, Add, LeakyReLU
 from keras import optimizers
 from keras.utils.np_utils import to_categorical
 from keras.layers.merge import concatenate
@@ -43,7 +43,7 @@ sequences = tokenizer.texts_to_sequences(utterances) # Turn text into sequence o
 
 max_len = 50 # Make all sequences 50 words long
 data = pad_sequences(sequences, maxlen=max_len, padding='post')
-print(data.shape) # We have 5509, 100 word sequences now
+print(data.shape) # We have (5509, 100) => (30160, 50) word sequences now
 
 # Determine train and validation data
 train_valtest_ratio = 0.7 # validation and test set will take 30% of the data
@@ -141,7 +141,7 @@ def train_w2v_lstm(we_dir, emb_dim):
             embedding_matrix[i] = embedding_vector
         else:
             embedding_matrix[i] = np.zeros(emb_dim, )
-            
+
     # Define Model
     model = Sequential()
     model.add(Embedding(vocab_size, emb_dim, input_length = max_len, weights = [embedding_matrix], trainable = False))
@@ -158,11 +158,12 @@ model_2 = train_w2v_lstm(we_w2v_dir, 300)
 
 # Create placeholder model for concatenation
 concatenated_input = Input(shape = (max_len,))
-out1 = model_1(concatenated_input)    
-out2 = model_2(concatenated_input)    
+out1 = model_1(concatenated_input)
+out2 = model_2(concatenated_input)
 concatenated_output = Concatenate()([out1,out2])
 concatenated_output = Flatten()(concatenated_output)
-concatenated_output = Dense(128, activation='relu')(concatenated_output)
+concatenated_output = Dense(128)(concatenated_output)
+concatenated_output = LeakyReLU(alpha=.3)(concatenated_output)
 concatenated_output = Dropout(.5)(concatenated_output)
 concatenated_output = Dense(4, activation='softmax')(concatenated_output)
 
@@ -175,6 +176,7 @@ history = final_model.fit(x_train, y_train,
                     batch_size=128,
                     validation_data=(x_val, y_val))
 scores = final_model.evaluate(x_test, y_test, verbose=0)
+final_model.summary()
 print('Test accuracy:', scores[1])
 
 pyplot.plot(history.history['acc'],label='Training Accuracy')

@@ -119,12 +119,12 @@ model.add(Activation('softmax'))
 model.compile(optimizer='adam',
               loss='binary_crossentropy',
               metrics=['accuracy'])
-model.summary()
+
 history = model.fit(x_train, y_train,
                     epochs=10,
                     batch_size=128,
                     validation_data=(x_val, y_val))
-
+model.summary()
 scores = model.evaluate(x_test, y_test, verbose=0)
 print('Test accuracy:', scores[1])
 
