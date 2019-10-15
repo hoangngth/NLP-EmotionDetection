@@ -22,7 +22,7 @@ utterances = []
 labels = []
 
 # LOAD DATA
-emotion_dataset_dir = os.getcwd()+'/Dataset/starterkitdata/train.csv'
+emotion_dataset_dir = os.getcwd()+'/Dataset/Processed_Data_NoSmiley.csv'
 df = pd.read_csv(emotion_dataset_dir)
 
 utterances = df['Utterances']
@@ -43,7 +43,7 @@ sequences = tokenizer.texts_to_sequences(utterances) # Turn text into sequence o
 
 max_len = 50 # Make all sequences 50 words long
 data = pad_sequences(sequences, maxlen=max_len, padding='post')
-print(data.shape) # We have (5509, 100) => (30160, 50) word sequences now
+print(data.shape) # We have (30160, 50) word sequences now
 
 # Determine train and validation data
 train_valtest_ratio = 0.7 # validation and test set will take 30% of the data
@@ -90,7 +90,7 @@ y_test = to_categorical(y_test)
 def train_glove_lstm(we_dir, emb_dim):
     # Load word embedding, process WE file
     embedding_index = dict()
-    print('Converting into dictionary of vectorized words...')
+    print('[GloVe] Converting into dictionary of vectorized words...')
     f = open(we_dir, encoding='utf-8', errors='ignore')
     for line in f:
         values = line.split()
@@ -123,7 +123,7 @@ def train_glove_lstm(we_dir, emb_dim):
 def train_w2v_lstm(we_dir, emb_dim):
     # Load word embedding, process WE file
     embedding_index = dict()
-    print('Converting into dictionary of vectorized words...')
+    print('[Word2Vec] Converting into dictionary of vectorized words...')
     f = open(we_dir, encoding='utf-8', errors='ignore')
     for line in f:
         values = line.split()
@@ -153,7 +153,7 @@ def train_w2v_lstm(we_dir, emb_dim):
 # We need to Concatenate 2 models together
 we_glove_dir = os.getcwd() + '/Word_Embedding/em-glove.6B.300d-20epoch.txt'
 model_1 = train_glove_lstm(we_glove_dir, 300)
-we_w2v_dir = os.getcwd() + '/Word_Embedding/em-glove.6B.300d-20epoch.txt'
+we_w2v_dir = os.getcwd() + '/Word_Embedding/em-w2v-out-wiki-20epoch.txt'
 model_2 = train_w2v_lstm(we_w2v_dir, 300)
 
 # Create placeholder model for concatenation
@@ -168,11 +168,12 @@ concatenated_output = Dropout(.5)(concatenated_output)
 concatenated_output = Dense(4, activation='softmax')(concatenated_output)
 
 final_model = Model(concatenated_input, concatenated_output)
-final_model.compile(optimizer='adam',
+opt_adam = optimizers.Adam(lr=.0005, decay=1e-5)
+final_model.compile(optimizer=opt_adam,
               loss='binary_crossentropy',
               metrics=['accuracy'])
 history = final_model.fit(x_train, y_train,
-                    epochs=10,
+                    epochs=15,
                     batch_size=128,
                     validation_data=(x_val, y_val))
 scores = final_model.evaluate(x_test, y_test, verbose=0)
