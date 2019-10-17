@@ -1,6 +1,7 @@
 import os
 import pickle
 import pandas as pd
+import numpy as np
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import load_model
@@ -36,6 +37,6 @@ print('User1 (turn2): ')
 input_text = input()
 user1_turn2_pred = predict_sentence(input_text)
 
-concatenated_matrix = np.concatenate((user1_turn1_pred, user2_turn1_pred, user1_turn2_pred), axis = 0)
+concatenated_matrix = np.concatenate((user1_turn1_pred, user2_turn1_pred, user1_turn2_pred), axis=0)
 mean_emotion_pred = concatenated_matrix.mean(0)
 print('Mean emotion: \n', mean_emotion_pred)

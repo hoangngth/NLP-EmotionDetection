@@ -127,6 +127,7 @@ history = model.fit(x_train, y_train,
                     validation_data=(x_val, y_val))
 
 scores = model.evaluate(x_test, y_test, verbose=0)
+print(model.metrics_names)
 print('Test accuracy:', scores[1])
 
 pyplot.plot(history.history['acc'],label='Training Accuracy')
