@@ -10,7 +10,7 @@ from collections import Counter
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import Sequential, Model
-from keras.layers import Embedding, LSTM, Dense, Flatten, Dropout, Activation, Concatenate, Input, Add, LeakyReLU
+from keras.layers import Embedding, LSTM, Dense, Flatten, Dropout, Activation, Concatenate, Input, Add, LeakyReLU, Bidirectional
 from keras import optimizers
 from keras.utils.np_utils import to_categorical
 from keras.layers.merge import concatenate
@@ -21,17 +21,24 @@ start_time = time.time()
 utterances = []
 labels = []
 
-# LOAD DATA
-emotion_dataset_dir = os.getcwd()+'/Dataset/Processed_Data_NoSmiley.csv'
+# Load data
+emotion_dataset_dir = os.getcwd() + '/Dataset/Processed_Data_NoSmiley.csv'
 df = pd.read_csv(emotion_dataset_dir)
 
 utterances = df['Utterances']
 labels = df['Label']
-
 labels = np.asarray(labels)
 
+# Load special characters
+special_characters_dir = os.getcwd() + '/Dataset/Special_Characters.txt'
+f = open(special_characters_dir, encoding='utf-8', errors='ignore')
+for line in f:
+    special_characters = line
+f.close()
+filtered_characters = special_characters + '!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~\t\n'
+
 # Word Tokenizing
-tokenizer = Tokenizer()
+tokenizer = Tokenizer(filters=filtered_characters)
 tokenizer.fit_on_texts(utterances) # Generate tokens by counting frequency
 
 # Save tokenizer
@@ -112,8 +119,8 @@ def train_glove_lstm(we_dir, emb_dim):
     # Define Model
     model = Sequential()
     model.add(Embedding(vocab_size, emb_dim, input_length = 50, weights = [embedding_matrix], trainable = False))
-    model.add(LSTM(32, return_sequences = True))
-
+    model.add(Bidirectional(LSTM(32, return_sequences = True), input_shape=(32,5,50)))
+    model.add(Bidirectional(LSTM(32)))
     return model
 #----------------------------------------------------------
 
@@ -145,7 +152,8 @@ def train_w2v_lstm(we_dir, emb_dim):
     # Define Model
     model = Sequential()
     model.add(Embedding(vocab_size, emb_dim, input_length = max_len, weights = [embedding_matrix], trainable = False))
-    model.add(LSTM(32, return_sequences = True))
+    model.add(Bidirectional(LSTM(32, return_sequences = True), input_shape=(32, 5, 50)))
+    model.add(Bidirectional(LSTM(32)))
 
     return model
 #----------------------------------------------------------
@@ -161,19 +169,19 @@ concatenated_input = Input(shape = (max_len,))
 out1 = model_1(concatenated_input)
 out2 = model_2(concatenated_input)
 concatenated_output = Concatenate()([out1,out2])
-concatenated_output = Flatten()(concatenated_output)
+#concatenated_output = Flatten()(concatenated_output)
 concatenated_output = Dense(128)(concatenated_output)
 concatenated_output = LeakyReLU(alpha=.3)(concatenated_output)
 concatenated_output = Dropout(.5)(concatenated_output)
 concatenated_output = Dense(4, activation='softmax')(concatenated_output)
 
 final_model = Model(concatenated_input, concatenated_output)
-opt_adam = optimizers.Adam(lr=.0005, decay=1e-5)
+opt_adam = optimizers.Adam(lr=.0005, decay=1e-4)
 final_model.compile(optimizer=opt_adam,
               loss='binary_crossentropy',
               metrics=['accuracy'])
 history = final_model.fit(x_train, y_train,
-                    epochs=15,
+                    epochs=10,
                     batch_size=128,
                     validation_data=(x_val, y_val))
 scores = final_model.evaluate(x_test, y_test, verbose=0)
