@@ -18,11 +18,8 @@ from keras.layers.merge import concatenate
 # Start counting time
 start_time = time.time()
 
-utterances = []
-labels = []
-
 # Load data
-emotion_dataset_dir = os.getcwd() + '/Dataset/Processed_Data_NoSmiley.csv'
+emotion_dataset_dir = os.getcwd() + '/Dataset/Processed_Data3_By_Name.csv'
 df = pd.read_csv(emotion_dataset_dir)
 
 utterances = df['Utterances']
@@ -31,7 +28,7 @@ labels = np.asarray(labels)
 
 # Load special characters
 special_characters_dir = os.getcwd() + '/Dataset/Special_Characters.txt'
-f = open(special_characters_dir, encoding='utf-8', errors='ignore')
+f = open(special_characters_dir, encoding='utf-8-sig', errors='ignore')
 for line in f:
     special_characters = line
 f.close()
@@ -48,9 +45,9 @@ with open('Tokenizer/tokenizer.30k.pickle', 'wb') as handle:
 vocab_size = len(tokenizer.word_index)+1
 sequences = tokenizer.texts_to_sequences(utterances) # Turn text into sequence of numbers
 
-max_len = 50 # Make all sequences 50 words long
+max_len = 167 # Make all sequences 167 words long
 data = pad_sequences(sequences, maxlen=max_len, padding='post')
-print(data.shape) # We have (30160, 50) word sequences now
+print('Data shape: ', data.shape)
 
 # Determine train and validation data
 train_valtest_ratio = 0.7 # validation and test set will take 30% of the data
@@ -118,9 +115,10 @@ def train_glove_lstm(we_dir, emb_dim):
             
     # Define Model
     model = Sequential()
-    model.add(Embedding(vocab_size, emb_dim, input_length = 50, weights = [embedding_matrix], trainable = False))
-    model.add(Bidirectional(LSTM(32, return_sequences = True), input_shape=(32,5,50)))
+    model.add(Embedding(vocab_size, emb_dim, input_length = max_len, weights = [embedding_matrix], trainable = False))
+    model.add(Bidirectional(LSTM(32, return_sequences = True, dropout=.1, recurrent_dropout=.1), input_shape=(32, 3, max_len)))
     model.add(Bidirectional(LSTM(32)))
+
     return model
 #----------------------------------------------------------
 
@@ -152,9 +150,9 @@ def train_w2v_lstm(we_dir, emb_dim):
     # Define Model
     model = Sequential()
     model.add(Embedding(vocab_size, emb_dim, input_length = max_len, weights = [embedding_matrix], trainable = False))
-    model.add(Bidirectional(LSTM(32, return_sequences = True), input_shape=(32, 5, 50)))
+    model.add(Bidirectional(LSTM(32, return_sequences = True, dropout=.1, recurrent_dropout=.1), input_shape=(32, 3, max_len)))
     model.add(Bidirectional(LSTM(32)))
-
+    
     return model
 #----------------------------------------------------------
 
@@ -165,23 +163,24 @@ we_w2v_dir = os.getcwd() + '/Word_Embedding/em-w2v-out-wiki-20epoch.txt'
 model_2 = train_w2v_lstm(we_w2v_dir, 300)
 
 # Create placeholder model for concatenation
-concatenated_input = Input(shape = (max_len,))
+concatenated_input = Input(shape = (max_len, ))
 out1 = model_1(concatenated_input)
 out2 = model_2(concatenated_input)
-concatenated_output = Concatenate()([out1,out2])
-#concatenated_output = Flatten()(concatenated_output)
+concatenated_output = Concatenate()([out1, out2])
+# concatenated_output = Flatten()(concatenated_output)
 concatenated_output = Dense(128)(concatenated_output)
 concatenated_output = LeakyReLU(alpha=.3)(concatenated_output)
 concatenated_output = Dropout(.5)(concatenated_output)
 concatenated_output = Dense(4, activation='softmax')(concatenated_output)
 
+# Build model
 final_model = Model(concatenated_input, concatenated_output)
-opt_adam = optimizers.Adam(lr=.0005, decay=1e-4)
+opt_adam = optimizers.Adam(lr=.001, decay=1e-5)
 final_model.compile(optimizer=opt_adam,
               loss='binary_crossentropy',
               metrics=['accuracy'])
 history = final_model.fit(x_train, y_train,
-                    epochs=10,
+                    epochs=15,
                     batch_size=128,
                     validation_data=(x_val, y_val))
 scores = final_model.evaluate(x_test, y_test, verbose=0)

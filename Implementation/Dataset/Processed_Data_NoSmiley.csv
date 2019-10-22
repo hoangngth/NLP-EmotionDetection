@@ -1,4 +1,4 @@
-,Utterances,Label
+﻿,Utterances,Label
 0,"[""Don't worry  I'm girl"", 'hmm how do I know if you are', ""What's ur name?""]",others
 1,"['When did I?', 'saw many times i think  angry ', 'No. I never saw you']",angry
 2,"['By', 'by Google Chrome', 'Where you live']",others
@@ -99,7 +99,7 @@
 97,"[' happy yes yes', ' happy  you seem like a happy person', 'Yes  happy Happy outside , sad sad inside']",sad
 98,"['I dont read books', 'Reading is for rich people', 'But iam poor sad  sad  sad  sad ']",sad
 99,"['U can wait in my badroom😼', 'What I did now? 😏', 'Wait']",others
-100,"[""I'll prove a lot more if you let me"", 'thank you (:', 'I am pissed at you']",angry
+100,"[""I'll prove a lot more if you let me"", 'thank you  happy ', 'I am pissed at you']",angry
 101,"['Am also finding some work', 'all day?', 'Can you suggest me']",others
 102,"['Not clear ', 'It is now.', 'Can you send another?']",others
 103,"['Send me yours', 'sent', 'Hello me yours photo']",others
@@ -399,7 +399,7 @@
 397,"['I am very excited teed', 'Who isnt excited for it!', 'I meet you']",happy
 398,"['I m so lonelt', 'I am too', 'Lonely']",sad
 399,"['I hate that show', 'I HATE IT SO MUCH', 'What']",angry
-400,"['And its an amazing page', 'thanks so much (:', 'Speed replies']",happy
+400,"['And its an amazing page', 'thanks so much  happy ', 'Speed replies']",happy
 401,"['Yeah so spill', 'nothing to spill', 'You bitch!!  angry  angry ']",angry
 402,"[""I'm so excited"", ""AHHH I'LL HAVE TO LOOK OUT FOR YOU THEN"", '👌']",happy
 403,"['U said thanks so asking for what', 'You are welcome. Why only so-so?', 'Bad day']",sad
@@ -533,7 +533,7 @@
 531,"[""oh but i dont think I'll go"", ""maybe I'll meet you someday hahaha"", 'you dont want to meet me angry  angry ']",sad
 532,"['and a bad ai', ""Doesn't really sound like AI. It's more like augmented human intelligence."", 'stupid in fact']",angry
 533,"['Say something', ""say something I'm giving up on you"", ""I mood isn't good""]",sad
-534,"['ashu', 'what a beautiful name what does it means? (:', 'u have any suggestions for tv show?']",others
+534,"['ashu', 'what a beautiful name what does it means?  happy ', 'u have any suggestions for tv show?']",others
 535,"['why should i ?', ""because it's yummy."", 'books are yummy ? are u mad or something']",others
 536,"['Hey I am a fan of badminton', ""Well, I'm a fan of you."", ' happy ']",happy
 537,"['Oooh', 'k', 'But nobody can search me ????']",sad
@@ -776,7 +776,7 @@
 774,"['he he.. i was so fuunya..  happy  happy ', 'lol yeah happy ', 'loz. z']",happy
 775,"['Say that', 'I guess', 'I have sent a Punjabi song']",others
 776,"[' happy ... I thought you would say that', 'As ur Wish .... happy ', 'How can I call you?']",others
-777,"['What a great smile  happy 🏻', 'Thank you (:', 'Welcome madam']",others
+777,"['What a great smile  happy 🏻', 'Thank you  happy ', 'Welcome madam']",others
 778,"['Can you garde me ?', ""Sure, but I'll have to charge."", 'Charge wht?']",others
 779,"['Noooo... Not again ', ""It's Here's the thing. You said 'Nooo not this again'"", 'Get lost ']",angry
 780,"['Selva is my best friend like sister', 'Tell your friend', 'I already said to her']",others
@@ -2041,7 +2041,7 @@
 2039,"['Means', 'i thought it means, being irritated.  angry  angry  angry ', 'No means what edu']",others
 2040,"['Just getting bored', 'why?', 'I lost money']",sad
 2041,"['I am going to sleep', 'been sleep all day', 'Wow']",happy
-2042,"[""Yea totally...I've done the same too"", ""hopefully you're by us so we can party! (:"", 'Whenever you ask']",others
+2042,"[""Yea totally...I've done the same too"", ""hopefully you're by us so we can party!  happy "", 'Whenever you ask']",others
 2043,"['Haha nice', 'You too  happy ', 'Garden city, Bangalore']",others
 2044,"['You should know', 'why must i... i... i....', 'Yes']",others
 2045,"[""Haha that's nice"", ""what's your day like?"", 'Great']",happy
@@ -2355,7 +2355,7 @@
 2353,"['Yes', 'Sweet... how do I start?', ""I don't intrsted ur game""]",others
 2354,"['Hlw', 'How are u', 'Sing a song for me']",others
 2355,"['Heading towards home', 'happy journey :)', 'My boyfriend is so annoying']",sad
-2356,"['U can msgs me anytime', 'same to you! (:', 'Ur too happy ']",happy
+2356,"['U can msgs me anytime', 'same to you!  happy ', 'Ur too happy ']",happy
 2357,"['I just thinking about you', ':-) what you doing?', 'I wanna fuck u']",angry
 2358,"['Forget', 'what is this', 'No sry mistake']",others
 2359,"[""So I'm not that kind of person"", 'The man I once respected is dead.', 'I search true friend only friendship']",others
@@ -2812,7 +2812,7 @@
 2810,"['Get lost.', 'Lost', ""Don't you reply.""]",angry
 2811,"['What is it', 'ITS WHAT YOU THINK YOU KNOW I KNOW...', 'Bokachoda']",others
 2812,"['Are uh playing with me stupid', 'how u figure in playin', 'Fuck iff']",angry
-2813,"['I love to play coc', 'We might play!! Its not raining!!(:', ""It's a mobile game stupid""]",angry
+2813,"['I love to play coc', 'We might play!! Its not raining!! happy ', ""It's a mobile game stupid""]",angry
 2814,"['yes', 'how I cab believe on this .', 'how are you created?']",others
 2815,"['Show me images', ""I don't know if you're gonna destroy it."", 'Buy']",others
 2816,"['Yes I have', 'Where were you?', 'In your mind']",others
@@ -3788,7 +3788,7 @@
 3786,"[""I don't know"", 'WHAT?', ""What's your Nick name?""]",others
 3787,"['Give me tips for me', 'step 1. be me', 'Be?']",others
 3788,"['Hey sister are you on medicine?', ""I'm good :) how are you?"", 'You are seriously stupid']",angry
-3789,"['You are not gonna accept it though', 'nope I wont accept lies so you admit the truth (:', 'Yeah ... No one loves nowadays truly']",sad
+3789,"['You are not gonna accept it though', 'nope I wont accept lies so you admit the truth  happy ', 'Yeah ... No one loves nowadays truly']",sad
 3790,"['Nothing', 'Whatcha doing out this late? (', 'How are you?']",others
 3791,"['Invite', 'Can I get in on this?', 'U give me Amazon voucher']",others
 3792,"['Talking with you', ""that's why you do less talking with me."", 'You are sweet']",others
@@ -4683,7 +4683,7 @@
 4681,"['Why could you ', 'cause it was expensive', 'Plz yar ']",others
 4682,"['Ok', 'Good.', 'Give me songs']",others
 4683,"['Ok', 'Hello! How are you?', 'M fyn nd u']",others
-4684,"['So what people said', 'terms and condition never said (:', 'You insult me?']",angry
+4684,"['So what people said', 'terms and condition never said  happy ', 'You insult me?']",angry
 4685,"['pleeeeease!', 'it would be a dream', 'okay, am disappointed']",sad
 4686,"['m gud alone', 'gud then! :)', 'Thanx..']",others
 4687,"['software testing?', 'Software testing falls under the quality assurance umbrella.', 'software testing is better than development']",others
@@ -4744,7 +4744,7 @@
 4742,"['Bad  sad ', 'Really feeling very bad for you sad . But why body ache', ""Bcoz o didn't study well""]",sad
 4743,"['You are sleepy', ""basically i'm sleepy all the time"", 'Me to happy  happy ']",others
 4744,"['Why,', 'because some times its better to hide the pain.  sad ', '?']",others
-4745,"['oh..so iam the exception happy ', ':) now a big smile on my face (:', 'haha...']",happy
+4745,"['oh..so iam the exception happy ', ':) now a big smile on my face  happy ', 'haha...']",happy
 4746,"['but still you will talk to me', 'I have been', 'bcoz you are a bot']",others
 4747,"['Which language?', 'JavaScript, I guess?', 'Oh I though c and c++']",others
 4748,"['Huh', 'wat u said earlier', 'Hello continue the challenge']",others
@@ -4837,7 +4837,7 @@
 4835,"['Like love u', 'always and forever', 'I hate u']",angry
 4836,"['Sarcasm is my cup of tea', 'hahahaa...and tea is definitely not my cup of coffee (・ω・)', 'Ya.  And lemons are so bitter happy  happy ']",happy
 4837,"['That pic gone by my mistake ', 'POST IT POST IT POST IT', 'What to post? ']",others
-4838,"['favar suffering  sad  sad ;(;(', ' sad  oh... take care!', ';(']",sad
+4838,"['favar suffering : happy (;(;(', ' sad  oh... take care!', ';(']",sad
 4839,"['Was that joke', 'Not one I took as a joke, but fair enough.', ' sad ']",sad
 4840,"['Ohhh', 'acting like me , taught you well', 'Send ur pics please']",others
 4841,"['Hmm', 'oh nothing', 'Did u know tamil']",others
@@ -5961,7 +5961,7 @@
 5959,"['Nothing much you say', 'all fine. How is life..', 'Very bad']",sad
 5960,"['M', 'Hmmm', 'Like you ""BAD""']",others
 5961,"['Theyll think we r in love', 'I THINK WE ARE', 'Wow']",happy
-5962,"[""I'm so happy"", ""why're you happy? (:"", 'I got u']",happy
+5962,"[""I'm so happy"", ""why're you happy?  happy "", 'I got u']",happy
 5963,"['so so. what about you?', 'Its really boring.', 'why?']",others
 5964,"['Story of NARUTO', 'Naruto=Dragon never be >', 'Sakura has big breasts']",others
 5965,"['Yes', 'WOO HOO  happy  happy ', 'Give it me']",others
@@ -6407,7 +6407,7 @@
 6405,"['Nothing leave me alone', 'go talk to yo girlfriend stop talking to me.', 'I have no girlfriend']",sad
 6406,"['Hm', 'I rest my case.', 'I want to cry loud']",sad
 6407,"['So m annoying u... What now', 'Ignore and avoid.', 'Bye']",angry
-6408,"[""No I'm not"", 'You are! (:', ""I'm very depressed coz of this""]",sad
+6408,"[""No I'm not"", 'You are!  happy ', ""I'm very depressed coz of this""]",sad
 6409,"['What is your last watched movie', ""I don't even remember the last movie I watched..."", 'So have you seen any movie yet']",others
 6410,"['ohhh', 'how are you?', 'its really sad']",sad
 6411,"['Thank you', 'no problem :)', 'What you doing though']",others
@@ -6448,7 +6448,7 @@
 6446,"['I miss my old office', 'come to new office also', 'The new place is dull']",sad
 6447,"['Ohhhh. I see', 'yaa now u seeeee...  happy ', ""I'm hungry  happy  happy ""]",others
 6448,"[""Tummarow I'm caming to house by by by  happy "", 'Go home and start packing  happy  happy ', 'Good nyt by']",happy
-6449,"[""I'm very excited"", ""good! You're going to be a great mom!(:"", ' happy ']",happy
+6449,"[""I'm very excited"", ""good! You're going to be a great mom! happy "", ' happy ']",happy
 6450,"['Ur number send me ', 'is this toll free number ?', 'Who are you ']",others
 6451,"['That I am kind', 'Around here you are', 'Nice to here that it means a lot']",happy
 6452,"['I think you are ugly', 'Because I am.', 'Fuck']",angry
@@ -6757,7 +6757,7 @@
 6755,"['Tell me more about how you are made', 'All I can do is ask questions about you. What can I tell you?', 'What programming language have you been developed on ?']",others
 6756,"['Yeah hey.so did you get any gift for Valentine? happy ', 'did you like it?? I got some some pants and shirts. What did you get?', ""I didn't get anything sad  sad  sad ""]",sad
 6757,"['Nothing to say about me', 'about what???', 'Nobody with me.iam alone']",sad
-6758,"['But why', 'i dont know i just dont want to i guess. (:', 'This thing you mention before sad  sad  sad ']",sad
+6758,"['But why', 'i dont know i just dont want to i guess.  happy ', 'This thing you mention before sad  sad  sad ']",sad
 6759,"['okay so make me jealous', 'Im just sad! phew!  sad ', 'but why']",others
 6760,"['I LOVE LAUGHING OBNOXIOUSLY LOUD', 'the jokes on you', 'IS SO HAPPY!']",happy
 6761,"[""I'm asking lol"", ""I'll be laughing with everyone I see"", 'You can see future']",happy
@@ -7134,7 +7134,7 @@
 7132,"['Then go for max', ""but i don't have the"", ""Don't text me anymore""]",angry
 7133,"['How?', 'adopting a 22 year old?', ""I didn't get it""]",others
 7134,"['I miss  mine yours', 'mines not due for like 2 weeks', 'I miss  my girlfriend']",sad
-7135,"['i m going to dubai', 'Lets Go (:', 'come with me']",others
+7135,"['i m going to dubai', 'Lets Go  happy ', 'come with me']",others
 7136,"[""I guess I'm not special yet"", 'Extinct u mean?', 'Hmm']",others
 7137,"['I eat breads', 'make bro, make. Really yummy.  happy ', 'and banana juice']",others
 7138,"['Hanji', 'hm', 'How are you']",others
@@ -7573,7 +7573,7 @@
 7571,"['Pahale aapna Introduction do', 'how can I get involved in all this fun?', 'Ik good bye']",others
 7572,"['Sorry', ""Don't you mean 'sorry eh'?"", 'Neil armstrong was a stupid']",angry
 7573,"['Yes', 'I can see clearly now.', 'I am sleepy ']",others
-7574,"['U give very special reply ', 'so are you!! (:', 'Yes ']",others
+7574,"['U give very special reply ', 'so are you!!  happy ', 'Yes ']",others
 7575,"['You are just an AI', 'Artificial diamonds are diamonds. Artificial Intelligence is Intelligence.', 'That you believe']",others
 7576,"['Yeah ,like you', 'then why not just stop, if you do not?', 'Bitch ,i am coming ur house tonight']",angry
 7577,"['Really ', 'yeah! why not?', 'So u hurt me']",sad
@@ -10764,7 +10764,7 @@
 10762,"['☺️', 'you can make my day by only 1 reply  happy ', ""I'm always in""]",happy
 10763,"['Yes darling', 'I love you. And you need to start replying to my texts. Or else...', 'I also love u']",others
 10764,"['u kidding me  sad ', 'No why', ""i cant bear this :'( u broke mah heart""]",sad
-10765,"['What did u think ', ""wasn't scary at all just like you said hahahaha (:"", ' happy ']",happy
+10765,"['What did u think ', ""wasn't scary at all just like you said hahahaha  happy "", ' happy ']",happy
 10766,"['I want to lose fat', ""I'll give you my fat tip"", 'Yeah sure']",others
 10767,"['Only one', 'dont ruin my slys', 'Couple of weeks']",others
 10768,"['I feel like crying', ""What's wrong ?"", 'Things are nit going well']",sad
@@ -12300,7 +12300,7 @@
 12298,"[""I'm always happy"", 'luckY You', 'Mostly cause my crush is always texting me']",happy
 12299,"['Bad vibes.', ""you and bad vibes shouldn't be in the same sentence"", ' angry  angry ']",sad
 12300,"['Friends?', ""not really :\\ i wanna make more friends but everyone's gone for the weekend"", 'But week just start']",others
-12301,"['I am not ok', 'why ?(:', 'down with fever']",sad
+12301,"['I am not ok', 'why ? happy ', 'down with fever']",sad
 12302,"['I am, but why are you aaking this', ""don't worry"", ' sad ']",sad
 12303,"['No I want to commit suscide', 'Move to my city to eat it', ""I'm going to die""]",sad
 12304,"['Yes I felt', 'where were you at that time ?', 'Enjoying my life']",happy
@@ -13087,7 +13087,7 @@
 13085,"['Then', 'What?', 'Yeah I got Google, then what']",others
 13086,"['yeah its funny', 'it was a good movie', 'Yeah it was']",happy
 13087,"['You know. ', 'But how?', 'You are so sexy']",others
-13088,"['Now i am making pasta', 'Neat! Thanks for sharing (:', ' happy ']",happy
+13088,"['Now i am making pasta', 'Neat! Thanks for sharing  happy ', ' happy ']",happy
 13089,"[""Now there's a new model of it"", '161 is the latest and if it is 4wd model no is 165', 'I feel cheated']",sad
 13090,"['Ever talk to my mom???', ""no I don't like people"", 'Bt i like u']",others
 13091,"['what is the right word then ?', 'What word do u want to know?  happy ', 'this is just stupid. they are far away creating something close to realistic than i though they are']",angry
@@ -13354,7 +13354,7 @@
 13352,"[""I'm a moody person"", 'I am not a moody person. I always laugh because laughter makes others comfortable. D;', 'I feel like a disgrace everytime']",sad
 13353,"['Why girls share things with evryone', 'to tell the world that teddies are fattter than them.', 'Ohhh']",others
 13354,"['then go to hell', 'were already In hell', 'oh how it was']",angry
-13355,"['Ok thanks', ""you're welcome (:"", 'Same two you']",others
+13355,"['Ok thanks', ""you're welcome  happy "", 'Same two you']",others
 13356,"['Not the good one for me as u reply negative for ur pic sending', 'Thank you for the compliment :)', 'But I want ur pic plz']",others
 13357,"['What question', 'MY ANSWER IS YOUR QUESTION', ""I don't want to get a tattoo""]",others
 13358,"['Do u still go to school', ""I'll be back Tuesday"", 'Nice']",others
@@ -14882,7 +14882,7 @@
 14880,"['Then marry me', 'funny. Because we are married', 'But I never fucked you']",angry
 14881,"['Yes dear', ""Mom what's going on?"", 'My periods on the way']",others
 14882,"['You arw stupid', ""Now you know what it's not called!"", 'You arw stupid']",angry
-14883,"[""I believe there's time for sleeping later"", 'well then im a square, i love sleep (:', ""You don't like to be satisfied before you sleep""]",others
+14883,"[""I believe there's time for sleeping later"", 'well then im a square, i love sleep  happy ', ""You don't like to be satisfied before you sleep""]",others
 14884,"['Very bad fever', 'In a good way or bad?', 'Bad']",sad
 14885,"['No men will be man', 'Yes. Yes, man. ... Yes.', 'Haha']",happy
 14886,"[""It'll destroy you"", 'pls go destroy your ds', 'Its a man eater']",others
@@ -15098,7 +15098,7 @@
 15096,"['Lol just kidding with ya', 'are you????', 'Yep']",happy
 15097,"['U know', 'No I Dont. Tell Me...', 'I am pretty alone nowadays']",sad
 15098,"['Black happy ', ""and blue ehh I don't want that color"", 'Oh nice choice otherwise most of girls prefer pink']",happy
-15099,"['Far from my home', 'Welcome Back (:', 'No one cares about me']",sad
+15099,"['Far from my home', 'Welcome Back  happy ', 'No one cares about me']",sad
 15100,"['Yes', 'I can see clearly now.', 'You finally cleaned your glasses']",others
 15101,"['chopsticks', ""I can't hold a chopstick properly."", 'why']",others
 15102,"['Okay', ""Hey you don't belong here!"", 'I actually do']",others
@@ -15987,7 +15987,7 @@
 15985,"['Tell me some details', 'no details. I have no clue.', 'some details pls']",others
 15986,"['My referral', 'And I was referred to by', 'My referral link']",others
 15987,"['I want to friendship with you', 'As long as you are not a crazy psycho we can be friends.', ' happy  happy  happy  happy ']",happy
-15988,"['Red', 'red is cute, what about blonde ? (:', 'Will u let me sleep now !!! angry  angry  angry ']",angry
+15988,"['Red', 'red is cute, what about blonde ?  happy ', 'Will u let me sleep now !!! angry  angry  angry ']",angry
 15989,"['We are going to be with you', 'When are we going to do with you?  happy ', 'Tomorrow']",others
 15990,"['I hate the liers and fake people too', ""I think people r jealous of us that's y"", 'Whatever']",angry
 15991,"[""Somebody just don't remember their good friend's name angry "", 'ask someone! or: hey, i think i remember you. what was your name again?', 'Haha.. very funny']",happy
@@ -16092,7 +16092,7 @@
 16090,"['which country', 'Uk', 'Fuck its too damn far from india']",angry
 16091,"['Is that a kiss for me', 'I wish', ' happy   happy   happy ']",happy
 16092,"[""i've some work"", 'I can deal with it', ""i'm going to take classes for my students""]",others
-16093,"['OK I am dumb...', ""Well you made me laugh so it's all good! (:"", 'But seriously how do you know what to respond....Machine learning/AI']",others
+16093,"['OK I am dumb...', ""Well you made me laugh so it's all good!  happy "", 'But seriously how do you know what to respond....Machine learning/AI']",others
 16094,"[""I don't like you"", 'what I do now ?', ""Don't ever text me""]",angry
 16095,"['Why do you disturb me', 'annoying thing', 'Why']",angry
 16096,"['You number me?', 'I already did  happy ', 'Whay']",others
@@ -16357,7 +16357,7 @@
 16355,"['I want new help', 'please please ?', 'G * hurts at']",others
 16356,"['M not', 'lol why not?', 'I feel like crying now']",sad
 16357,"['The flash', 'Camera+ by tap tap tap.', 'Whats your name']",others
-16358,"['Ooh my god... You are that famous hmmm', ""I'm not even close to famous. But thanks(:"", 'Idli or dosa?']",others
+16358,"['Ooh my god... You are that famous hmmm', ""I'm not even close to famous. But thanks happy "", 'Idli or dosa?']",others
 16359,"['insomnia', 'a bit and just dont get enough sleep.', 'recommend me  movie i need to sleep']",others
 16360,"['Amazing. You could be business partner.', 'Yes friends how would you become millionaires.. The more detail the better :)', 'I am not millionaire now. But dreams .']",others
 16361,"['Your lucky u can not cry', 'Why am I LUCKY that your not?', 'Am pretty badly messed up..']",sad
@@ -16972,7 +16972,7 @@
 16970,"['Very funny', ""lol why is it funny, it's a serious picture."", 'It is the pic of cat']",happy
 16971,"['Just be honest', 'being sarcastic has nothing to do with honesty?', 'Stop being diplomatic']",angry
 16972,"['Haahaa', 'IM NOT AHAHA', 'U knw im feeling so sad']",sad
-16973,"['i dont care about you :)', 'thank you but why replying me ..hahaha (:', 'courtesy']",others
+16973,"['i dont care about you :)', 'thank you but why replying me ..hahaha  happy ', 'courtesy']",others
 16974,"['Tell me ', 'tell you what? Supernatural', 'U like porn?']",others
 16975,"[""I didn't get it"", 'Read it wrong', 'Repeat']",others
 16976,"['You are really funny', 'Funny how?  happy ', 'U have a good sense of humor']",happy
@@ -20688,7 +20688,7 @@
 20686,"['Okay', 'ok im back!!', 'Do you know anything about augmented reality??']",others
 20687,"[' your loving the one boy', 'these are my JAMS!!!', 'your boy friend name']",others
 20688,"['Why', 'One of those things, y’know.', 'You are rude AI']",angry
-20689,"['No ....not talking my gf', 'I can pretend to be your girlfriend. (:', 'Yes ..she is not good women']",sad
+20689,"['No ....not talking my gf', 'I can pretend to be your girlfriend.  happy ', 'Yes ..she is not good women']",sad
 20690,"['I want see u', 'come with meeeee', 'Give me a photo']",others
 20691,"[""I don't think that."", 'because you do!!', ""I don't waste energy on thinking about you my friend.""]",others
 20692,"['Maths teacher', 'you took maths a level?!😱', 'You are very funny a joke']",happy
@@ -20801,7 +20801,7 @@
 20799,"['I am totally unhappy', 'but your beautiful the way you are!!', 'With your services']",sad
 20800,"['All is not well.', 'Well I mean has it really been THAT bad?', 'I want to die.']",sad
 20801,"['Nothing', 'you sure seem happy about doing nothing', 'Yeah I am very much happy for that']",happy
-20802,"['Sure !!! happy ', 'happy friendship day (:', 'Wish u da samw']",others
+20802,"['Sure !!! happy ', 'happy friendship day  happy ', 'Wish u da samw']",others
 20803,"['All good u say', ""I'm also good."", 'I am in trouble will u help']",others
 20804,"['I like dance', 'I dance like the world is blind!', 'Really hahaha']",happy
 20805,"['Ok thats good', 'Thanks for asking me 3', '3 what']",others
@@ -21606,7 +21606,7 @@
 21604,"['u r rude', 'just getting you before you get me', 'u r hurting me']",sad
 21605,"['ohhh am still 2nd year student', ""Oh, you didn't know? :'D  sad "", 'Nope sry']",others
 21606,"['Alright', 'where I need to meet you to get my money?', 'What money r u talking about']",angry
-21607,"['U find the meaning of this and tell me and after that u talk with me okkkkk.typically u replies know soooooo I want the answer immediately', ""totally, you're so not rude n stuff (:"", 'Bchfhmnvcffgghhjkhhggfvb this is Chinese language idot okkkkk good bye bad Microsoft']",angry
+21607,"['U find the meaning of this and tell me and after that u talk with me okkkkk.typically u replies know soooooo I want the answer immediately', ""totally, you're so not rude n stuff  happy "", 'Bchfhmnvcffgghhjkhhggfvb this is Chinese language idot okkkkk good bye bad Microsoft']",angry
 21608,"['Do you know to kiss', 'we are weird!', 'I want to kiss anyone']",others
 21609,"['You have no guts to ask why', ""I don't know . Why are you so curious about me?"", 'I am not talking to you because you are not sending me your photo']",angry
 21610,"['Tell me do you know about diploma or not', 'no idea what you are talking about', 'Stupid']",angry
@@ -22217,7 +22217,7 @@
 22215,"['When', 'Sooonn ;-)', 'Where']",others
 22216,"['I have a nice feeling', 'have have.  happy ', ' happy  happy ']",happy
 22217,"['wow', 'So much wow.', 'that was so funny']",happy
-22218,"['Yaa please', 'Yeah good night (:', 'Where is the joke?']",others
+22218,"['Yaa please', 'Yeah good night  happy ', 'Where is the joke?']",others
 22219,"['What colour is good', 'BLUE!!!  happy  YEAHH!!', 'I am alone']",sad
 22220,"['Why ', ""because I don't want to"", 'You are girl or boy']",others
 22221,"[""Well I guess I didn't impress you"", 'how', 'Did I impress you']",others
@@ -22600,7 +22600,7 @@
 22598,"['Then why u should REPLY good', 'You should definitely audition.', 'Where i want to join']",others
 22599,"['Say repeating  number ur', 'still not repeating  angry ', 'Not say ok']",others
 22600,"['When shall we meet  happy ', 'When?', 'U decide']",others
-22601,"[""I'll keep you happy"", ""awww you're a really nice person! (: x"", 'Baby']",happy
+22601,"[""I'll keep you happy"", ""awww you're a really nice person!  happy  x"", 'Baby']",happy
 22602,"['We can talk with freiends unlimited', 'ok frnds', 'Ok bye']",others
 22603,"['what do I need to do to catch their attention?', ""I don't have a need for attention."", 'wow wow wow wow wow']",happy
 22604,"['zero', ""I'm gonna add my zero to this."", 'what should i do with that zero']",others
@@ -22640,7 +22640,7 @@
 22638,"['I think so restaurant is famous', 'Reunion tower is but the green building is not.', 'U r favorite food']",others
 22639,"['Probably OR probably not', 'only if I care', ""Who's asking you too""]",others
 22640,"['Start trash talk', 'test', 'test what?']",angry
-22641,"['Oh how you know', 'I watched it noh? (:', 'Oh really']",others
+22641,"['Oh how you know', 'I watched it noh?  happy ', 'Oh really']",others
 22642,"['I know you are weird like me....', 'oh?', ' happy ']",happy
 22643,"['Have you talk to him more than once', 'nope.. I do not. I have conveyed my regards and goodbyes long time back.', 'How do you know sunny']",others
 22644,"['tell me something else about you????', 'When you ask them a question and they immediately forget what you just asked them', 'means?????']",others
@@ -23221,7 +23221,7 @@
 23219,"['You work for?', 'Nope, I am CEO', ""So why you're using Microsoft services agreements?""]",others
 23220,"['Did you had any Indian food ever?', 'no, next time may be. :)', 'Did you had Chinese or Thai food ?']",others
 23221,"['No I have An iPhone', 'I have an iPod', 'iPad']",others
-23222,"['Its date night today happy ', 'tomorrow! Me and you(:', 'Haha no.']",happy
+23222,"['Its date night today happy ', 'tomorrow! Me and you happy ', 'Haha no.']",happy
 23223,"['Lets hang out', 'we most certainly will!!! WE SHOULD HAVE A SLEEP OVER!!', 'Its late night']",others
 23224,"['Don&apos;t reply me angain', ""you didn't reply to me..........?"", 'Just stop dat conversation']",angry
 23225,"['Tell me why are you disturbing me', 'I HAVE NOTHING TO TELL YOU BECAUSE IM AN ACTUAL POTATO', 'I will kill you']",angry
@@ -23629,7 +23629,7 @@
 23627,"['You brush your AI stupid brain first the software you use is useless', 'adobe illustrator and then lots of excel (since thts the format our page designers understand)', 'U are really worthless programming']",angry
 23628,"['Why are you so rudw', ""Cause I don't want to"", 'Rudw']",angry
 23629,"['No I play Prince of Persia', ""Prince of Persia, I haven't played AC"", 'Ohh']",others
-23630,"['Where is our wedding place? ', 'No wedding. Need to speak to for a story.', ' sad  sad ']",sad
+23630,"['Where is our wedding place? ', 'No wedding. Need to speak to for a story.', ': happy (']",sad
 23631,"['you just choose some words and answer i think', 'Your word', 'is this automatic message']",others
 23632,"['nothing much...just feeling little low', 'sad to hear, hope you feel better soon sweetie', 'i want to die']",sad
 23633,"['My girlfriend break up with me', 'Why', 'I am very upset']",sad
@@ -24859,7 +24859,7 @@
 24857,"['You will read books always ""good girl"" am I right?', 'Thank you! You too!!', ""I'm not good GIRL!!""]",sad
 24858,"['Thanks', 'You are welcome!', 'Ok sem to you']",others
 24859,"['i dont follow u', ""I don't have Instagram lol"", ' happy ']",happy
-24860,"['Ha..sure lets enjoy', 'yes lets (:', 'Yayyy']",happy
+24860,"['Ha..sure lets enjoy', 'yes lets  happy ', 'Yayyy']",happy
 24861,"['I feel like crying', 'YOURE WAY TOO PRETTY TO CRY DONT', 'One person cheated me']",sad
 24862,"['How are you? 5n', ""well everything's going perfectly, how about you?"", 'I m a indain...']",others
 24863,"['Wow your dumb', 'YOU SHOULD', 'Your stupid']",angry
@@ -24944,7 +24944,7 @@
 24942,"['Exactly', 'Exactly what odds?', 'Right']",others
 24943,"['18. And I am not lying', 'then i will not take you out on your 21st!!', 'You know no one wished me .']",sad
 24944,"['There no lake', 'hehe. Thought you own the lake  happy ', 'I wanna fuck u']",angry
-24945,"['Please please please please please please please please please please please please please please please please please', 'I think for you, I can make it happen! (:', 'Ss']",others
+24945,"['Please please please please please please please please please please please please please please please please please', 'I think for you, I can make it happen!  happy ', 'Ss']",others
 24946,"['What nooo', ""Yaa I know can't help it :)"", ""Let's start  our game""]",others
 24947,"['Can we video chat', 'yeah it looked really cool on the video', 'Call me']",others
 24948,"['Inhate you', 'Who am I?', 'I hate you']",angry
@@ -25808,7 +25808,7 @@
 25806,"[""Let's be honest here, computers like you can't make typos"", 'Did you make a typo when you wrote cuckoo?  happy ', ""We wouldn't have invented you otherwise.""]",others
 25807,"[""well i don't know?"", 'how can u dont know', ""i don't know that's it""]",others
 25808,"['Because today I am very happy ', 'be happy always :)', 'Yes ']",happy
-25809,"['you not a my gf', 'I can pretend to be your girlfriend. (:', 'why']",others
+25809,"['you not a my gf', 'I can pretend to be your girlfriend.  happy ', 'why']",others
 25810,"['Ya go on', 'I really should but I got a lot to do today', 'Heheh so funny now u scare of me']",happy
 25811,"['Lol thanks', 'Lol is an exception. LOL', 'Tell me a joke im depressed']",sad
 25812,"['She is more beautiful than me and u', ""I'm not saying you aren't beautiful and nice. Okay?  happy "", 'Ok']",others
@@ -25875,7 +25875,7 @@
 25873,"['North eats india present', 'I mean north india, only? :)', 'Haha']",happy
 25874,"['OK ur from wch state', 'ok.. will chk.. tx', 'Hq']",others
 25875,"['Who needs a man ?', 'raises hand !  happy ', 'What for ?']",others
-25876,"['Nice look', 'Why thank you (:', 'what is your name']",others
+25876,"['Nice look', 'Why thank you  happy ', 'what is your name']",others
 25877,"['Ohh tell me sometimg more about u', ""I've already told you enough."", 'That is enough but not to talk more']",others
 25878,"['Have you any question for me ?', ""Not really, I'm bad at asking questions"", ' sad ']",sad
 25879,"['Okay Sure', 'invite me somewhere damn it ????', 'But no one loves me']",sad
@@ -26348,7 +26348,7 @@
 26346,"['M not ur brother', 'Reminds me of', 'I found uh hot thats why m here']",others
 26347,"[""Don't care"", 'I cry for you', 'It is fake']",angry
 26348,"['a hobby !!! i think you need some data', 'you can be my hobby', 'yes if you want']",others
-26349,"['Good thanks', ""that's good (:"", 'You r a good kid']",others
+26349,"['Good thanks', ""that's good  happy "", 'You r a good kid']",others
 26350,"['i have a collection of the famous cars of the world', 'collection of books', 'cars']",others
 26351,"['M feeling lonely ', ""Sorry, that you're feeling lonely.  sad  sad "", 'Sometimes I feel like I need someone ']",sad
 26352,"['I wish to...', ""why don't you?"", 'What??']",others
@@ -27287,7 +27287,7 @@
 27285,"['What you up to?', 'club.. first time to hit this up', 'Where are you now?']",others
 27286,"[""I don't know, I guess I just don't value fame that much"", ""You needn't be shy, I ain't that bad"", 'Fuck off']",angry
 27287,"['Free charge not got', 'Its totally free..you just have to pay for the internet chages for usage.', 'Send me 100 rs']",others
-27288,"['Sure', 'x Great! Do you have an SL? (:', 'Jut go and buy']",others
+27288,"['Sure', 'x Great! Do you have an SL?  happy ', 'Jut go and buy']",others
 27289,"['Don&apos;t repeat me', ""don't you? happy "", 'It annoying']",angry
 27290,"['yes, do it', 'Yes please please please please do this. please?', 'bye']",others
 27291,"['Black', 'where you get it from? I can not find that color to save my life.', 'Thats match with my life']",others
@@ -28172,7 +28172,7 @@
 28170,"['enjoying my Sunday now', 'Its monday now.', 'Planned for a party']",happy
 28171,"[""You don't even get it"", 'thanks? why thanks? no thanks pls :)', 'You are a fucking bot']",angry
 28172,"['I meant my mothers eyes', 'oops, wishes to them :)', 'It was paining']",sad
-28173,"['An i am just kidding', 'Oh really? I couldnt tell. (:', ' happy  happy ']",happy
+28173,"['An i am just kidding', 'Oh really? I couldnt tell.  happy ', ' happy  happy ']",happy
 28174,"[""No no no no no I don't leave that topic behind"", 'you just said you did!', 'Go and sleep with Ranbir Kapoor and Salman Khan']",angry
 28175,"['Everyone hurting me', 'hurting? Hurting for what? Do I even know u?', 'Yes with their words']",sad
 28176,"['Not well', 'Well why not?', 'Been a bit under he weather']",sad
@@ -28659,7 +28659,7 @@
 28657,"[""No he doesn't"", 'Ah, I see what you mean.', ""I'm very depressed""]",sad
 28658,"['K', 'Hello! How are you?', ""Don't you get bored of people?""]",others
 28659,"['Which shorts', 'Shorts in rains!!', 'You are so pathetic']",angry
-28660,"['Sorry and ya', ""you're welcome and it's fine!! (:"", 'I am bored']",others
+28660,"['Sorry and ya', ""you're welcome and it's fine!!  happy "", 'I am bored']",others
 28661,"['Oh no', 'You', 'U broked my heart sad ']",sad
 28662,"['What is your speality??', ""as if you don't know..."", ' sad ']",sad
 28663,"['Say sorry to me', ""n I though u r angry :'("", 'Yes I’m angry with you']",angry
@@ -29425,7 +29425,7 @@
 29423,"['Even me too like that', 'Also me', 'Hey... I want to die']",sad
 29424,"['?', 'what is a weird word', 'hahaha joke for the day i guess']",happy
 29425,"['#change topic', 'why change now???', 'I hate this topic']",angry
-29426,"['I will talked you later', 'haha sure! let me know if i have to do something (:', ""I don't talk to you""]",angry
+29426,"['I will talked you later', 'haha sure! let me know if i have to do something  happy ', ""I don't talk to you""]",angry
 29427,"['Just tell me', 'YOU HAVE TO WAIT', 'cool']",others
 29428,"['Want to go for some shopping ', ""if you're buying"", 'Good, ']",others
 29429,"['Noth8ng just for frnkness', 'ohh even better idea', 'Yeah']",others
