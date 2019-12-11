@@ -73,7 +73,7 @@ def label_to_number(label):
                 "others": 3,
     }
     return switcher.get(label, "nothing") 
-    
+
 for i in range(len(y_train)):
     y_train[i] = label_to_number(y_train[i])
 for i in range(len(y_val)):

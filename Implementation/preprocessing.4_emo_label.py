@@ -7,7 +7,7 @@ utterances = []
 labels = []
 
 # DATA PRE-PROCESSING
-emotion_dataset_dir = os.getcwd()+'/Dataset/4_labels_emo.txt'
+emotion_dataset_dir = os.getcwd()+'/Dataset/test/test.txt'
 print(emotion_dataset_dir,)
 with open(emotion_dataset_dir, encoding='utf-8', errors='ignore') as f:
     raw_dataset = f.readlines()
@@ -26,7 +26,7 @@ Counter(labels)
 
 # Convert into csv for visualization
 df = pandas.DataFrame(data={"Utterances": utterances, "Label": labels})
-df.to_csv("./Dataset/4_emo.csv", sep=',',index=False)
+df.to_csv("./Dataset/test.csv", sep=',',index=False)
 
 # Randomly take "others" label
 new_utterances = []

@@ -1,0 +1,8 @@
+,Utterances,Label,0,1,2,3
+0,"[ ' i just qualified for the nabard internship ' , ' <allcaps> woot </allcaps> ! thats great news . congratulations ! ' , ' i started crying ' ]",happy,0.02214808,0.94552296,0.01165658,0.020672414
+1,"[ ' how dare you slap my child ' , ' if you spoil my car , i will do that to you too ' , ' just try to do that once ' ]",angry,0.06573982,0.027844492,0.62620366,0.280212
+2,"[ ' i was hurt by u more ' , ' you didnt mean it . ' , ' say u love me ' ]",sad,0.014617525,0.23857254,0.14463226,0.6021776
+3,"[ ' it will be arranged within two business days ? ' , ' it will be done at the earliest ' , ' this is getting very annoying now , no pickup yet ! ' ]",angry,0.004323868,0.116177514,0.5189557,0.36054283
+4,"[ ' man even food delivery apps in bangalore wont deliver till <number> <sad> , yea well it is a bandh , yeah well i do not have anything at home :/]",sad,0.21745718,0.21713074,0.056451168,0.50896096
+5,"[': ) good for both of us ! ' , ' it ' s better not to interact with a girl with so much ego . ' , ' attitude is still fine ' ]",angry,0.0049262736,0.572738,0.032229543,0.39010614
+6,"[ ' <number> gone <number> more to go : <number> ' , ' crores ? <laugh> ' , ' haha no ya . my kittens . one by one they are all leaving <sad> ' ]",sad,0.0023351992,0.9944669,0.0016930387,0.0015049131
